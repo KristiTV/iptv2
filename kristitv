@@ -1,0 +1,2917 @@
+#EXTM3U 
+#EXTINF: group-title="Kanalet RTSH" tvg-logo="https://i.imgur.com/j6fL4vc.png" , Kanalet RTSH
+http://79.106.48.2/live/rtsh_1ott_p3/playlist.m3u8
+#EXTINF: group-title="Kanalet RTSH" tvg-id="RTSH 1" , RTSH 2 HD
+http://79.106.48.2/live/rtsh_2ott_p3/playlist.m3u8
+#EXTINF: group-title="Kanalet RTSH" tvg-logo="https://i.imgur.com/zlYvCID.png" , RTSH 24
+http://79.106.48.2/live/rtsh_24_ott_p3/playlist.m3u8
+#EXTINF: group-title="Kanalet RTSH" tvg-logo="https://i.imgur.com/45JzrHL.png" , RTSH Femije
+http://79.106.48.2/live/rtsh_femije_ott_p3/playlist.m3u8
+#EXTINF: group-title="Kanalet RTSH" tvg-logo="https://i.imgur.com/dvqV5C1.png" , RTSH Film
+http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
+#EXTINF: group-title="Kanalet RTSH" tvg-logo="https://i.imgur.com/B9ZAhXA.png" , RTSH Muzike
+http://79.106.48.2/live/rtsh_muzike_ott_p3/playlist.m3u8
+#EXTINF: group-title="Kanalet RTSH" tvg-logo="https://i.imgur.com/IN5rJ2J.png" , RTSH Plus
+http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8
+#EXTINF: group-title="Kanalet RTSH" tvg-logo="https://i.imgur.com/UHG6Rve.png" , RTSH Shqip
+http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
+#EXTINF: group-title="Kanalet RTSH" tvg-logo="https://i.imgur.com/UHG6Rve.png" , RTSH Shqip (2)
+http://79.106.48.2/live/rtsh_shqip_ott_p3/playlist.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Gjenerale + Lajme + Lokale
+http://ott.artmott.com/Rtk1/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , RTK 2
+http://ott.artmott.com/Rtk2/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , RTK 3
+http://ott.artmott.com/Rtk3/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , RTK 4
+http://ott.artmott.com/Rtk4/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Rtv 21
+http://ott.artmott.com/Rtv21/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , TOP NEWS
+http://84.22.33.210/TOPNEWS.OTT/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , KTV HD
+http://84.22.33.210/KtvHd/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , TV Klan Plus
+http://84.22.33.218/TVKlanPlus/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , KlanKosova
+http://ott.artmott.com/KlanKosova/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , T 7
+http://84.22.33.210/T7ott/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Dukagjini
+http://ott.artmott.com/Dukagjini/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , TOP CHANNEL
+http://84.22.33.210/topchannel/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Vizion Pus
+http://ott.artmott.com/VizionPus/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , TV Klan
+http://84.22.33.214/tvKlan/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , FIRST Channel
+http://ott.artmott.com/1stChannel/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Arta
+http://ott.artmott.com/ArtaNews/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , TV Opinion
+http://ott.artmott.com/TVOpinion/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , TV Prizereni
+http://ott.artmott.com/TVPrizereni/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Syri Vizion
+http://ott.artmott.com/SyriVizion/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , KORCA PLUS TV
+http://212.2.225.30:1935/live/albplus/playlist.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , KORCA PLUS 2
+http://212.2.225.30:1935/live/Korca-plus2/playlist.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , rtv 21 business
+http://84.22.33.254/unicast.rtv21business/video.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Rtv 21 M
+http://ott.artmott.com/Rtv21M/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , BBF
+http://84.22.33.254/unicast.bbf/video.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Euro AL
+http://5.135.92.131:1935/live/euroAl/playlist.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , rtv 21 plus hd
+http://84.22.33.254/unicast.21plushd/video.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , rtv 21 mix
+http://84.22.33.254/unicast.21mix/video.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Alsa tM
+http://84.22.33.210/AlsatM/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Era TV
+http://ott.artmott.com/EraTV/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Artmotion Info
+http://ott.artmott.com/ArtmotionInfo/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , DIVA
+http://ott.artmott.com/DIVA/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , AMC
+http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Sundance-TV
+http://ott.artmott.com/Sundance-TV/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Euro Channel
+http://84.22.33.214/EuroChannel/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , English Club Channel
+http://84.22.33.218/EnglishClubChannel/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Suite
+http://ott.artmott.com/Suite/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , premium
+http://84.22.33.238/unicast.premium/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , tv 8
+http://84.22.33.238/unicast.tv8/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Show Tv
+http://ott.artmott.com/ShowTv/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , pro 7
+http://ott.artmott.com/pro7Maxx/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , VOX
+http://ott.artmott.com/Vox/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Arte
+http://ott.artmott.com/Arte/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , ABC News
+http://flusrv2.artmotion.net/abcnewsott/index.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , fax news
+http://flusrv2.artmotion.net/unicast.faxnews/index.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Arta News
+http://ott.artmott.com/ArtaNews/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , KANALI 7
+http://ott.artmott.com/Kanali7/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , ZERI
+http://ott.artmott.com/Zeri/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Shenja TV
+http://ott.artmott.com/ShenjaTV/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , TV Besa
+http://vod.artmott.com/TV-Besa/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , TV Dielli
+http://ott.artmott.com/TVDielli/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Dasma TV
+http://ott.artmott.com/DasmaTV/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , tv vali
+http://vod.artmott.com/tvvali/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , TV llapi
+http://vod.artmott.com/TV-llapi/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , TV Liria
+http://ott.artmott.com/TV-Liria/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Rrokum
+http://ott.artmott.com/Rrokum/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Report TV
+http://84.22.33.218/ReportTV/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Start TV Drenas
+http://vod.artmott.com/Start-TV-Drenas-OTT/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Kanali 6
+http://vod.artmott.com/Kanali6/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , luxe tv
+http://84.22.33.254/unicast.luxetv/video.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , KUTIA TV HD
+http://84.22.33.254/unicast.kutiatvhd/video.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , PLUS TV
+http://84.22.33.254/unicast.pulstv/video.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , kim
+http://84.22.33.254/unicast.kim/video.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , positive gold
+http://84.22.33.254/unicast.positivegold/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , kiss
+http://84.22.33.254/kiss/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , zico
+http://ott.artmott.com/zico/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Next
+http://84.22.33.254/unicast.next/tracks-v1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Peace Tv
+http://ott.artmott.com/PeaceTv/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , CLICK
+http://84.22.33.254/unicast.click/video.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Muse
+http://ott.artmott.com/Muse/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , TV Mitrovica
+http://ott.artmott.com/TVMitrovica/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , ISTOGU
+http://84.22.46.172:8090/ISTOGUCHANNEL/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , ALB UK
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , gurmania
+http://ott.artmott.com/gurmania/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Gjenerale + Lajme + Lokale" , Beat
+http://ott.artmott.com/Beat/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" , Kinema
+http://ott.artmott.com/Prime/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" , Art Kino 1
+http://ott.artmott.com/ArtKino1/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" , Art Kino 2
+http://ott.artmott.com/ArtKino2/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" , Art Kino 3
+http://ott.artmott.com:90/ArtKino3/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" tvg-name="Film Autor" tvg-logo="https://tinyurl.com/tjmtlgm" , Film Autor
+http://84.22.33.210/autor.ott/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" tvg-name="Film Aksion" tvg-logo="http://www.albepg.com/tvlogi/Film Aksion.png" , Film Aksion
+http://84.22.33.210/aksionhd.ott/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" tvg-name="Film Thriller" tvg-logo="http://www.albepg.com/tvlogi/Film Thriller.png" , Film Thriller
+http://84.22.33.210/thriller.ott/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" tvg-name="Film Stinet" tvg-logo="http://www.albepg.com/tvlogi/Stinet.png" , Film Stinet
+http://84.22.33.210/stinet.ott/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" tvg-name="Film Nje" tvg-logo="http://www.albepg.com/tvlogi/Film Nje HD.png" , Film Nje
+http://84.22.33.210/njehd.ott/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" tvg-name="Film Dy" tvg-logo="http://www.albepg.com/tvlogi/Film Dy HD.png" , Film Dy
+http://84.22.33.210/dyhd.ott/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" tvg-name="Film Family" tvg-logo="https://mobile-api.tvim.tv/images/channels/300x160px/FAMILY.png" , Film Family
+http://84.22.33.210/familyhd.ott/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" tvg-name="Film Komedi" tvg-logo="http://www.albepg.com/tvlogi/Film Komedi.png" , Film Komedi
+http://84.22.33.210/komedi.ott/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" tvg-name="Film Drame" tvg-logo="http://www.albepg.com/tvlogi/Film Drame.png" , Film Drame
+http://84.22.33.210/drame.ott/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" , 7 HD
+http://ott.artmott.com/7HD/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" , SKY ACTION
+http://ott.artmott.com/SKYACTION/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" , SKY MAX
+http://ott.artmott.com/SKYMAX/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" , SKY Star
+http://ott.artmott.com/SkyStar/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" , SKY DRAME
+http://flusrv2.artmotion.net/unicast.skydrame/index.m3u8
+#EXTINF: group-title="Kinema" , SKY COMEDY
+http://ott.artmott.com/SKYCOMEDY/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" , SKY Shqip
+http://ott.artmott.com/SKYShqip/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" , Tring Action
+http://ott.artmott.com/TringAction/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" , Tring Fantasy
+http://ott.artmott.com/TringFantasy/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" , Tring Life
+http://ott.artmott.com/TringLife/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" , Tring 3Pus
+http://ott.artmott.com/3Pus/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" , Tring Shqip
+http://ott.artmott.com/TringShqip/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" , Tring Comedy
+http://ott.artmott.com/TringComedy/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" , Tring Super
+http://ott.artmott.com:90/TringSuper/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" , Tring JollyHD
+http://ott.artmott.com/JollyHD/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" , Tring Smile
+http://ott.artmott.com/Smile/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Kinema" , Tring Living
+http://ott.artmott.com/Living/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , Dokumentare
+http://ott.artmott.com/ArtDoku1/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , Art Doku 2
+http://ott.artmott.com/ArtDoku2/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , Tring World
+http://ott.artmott.com/TringWorld/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , Tring History
+http://ott.artmott.com/TringHistory/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , Tring Planet
+http://ott.artmott.com/TringPlanet/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , EXPLORER HISTORI
+http://84.22.33.210/histori.ott/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , EXPLORER SHKRNCE
+http://84.22.33.210/shkence.ott/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , EXPLORER NATYRA
+http://84.22.33.210/natyra.ott/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , Tring International
+http://ott.artmott.com/tringinternational/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , Discovery CH
+http://ott.artmott.com/DiscoveryCH/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , ID
+http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , Animal Planet
+http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , History Channel
+http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , Crime And Investigation
+http://ott.artmott.com/CrimeAndInvestigation/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , TLC
+http://ott.artmott.com/TLC/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , E!
+http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , Episode
+http://ott.artmott.com/Episode/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , outdoor channel
+http://ott.artmott.com/outdoorchannel/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , ALB Culture
+http://tva.fastbroad.com/i/alb_culture_ny145p1_1@380804/index_1500_av-p.m3u8
+#EXTINF: group-title="Dokumentare" , sci-fi
+http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , CBS-Reality
+http://ott.artmott.com/CBS-Reality/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , ALB Culture
+http://tva.fastbroad.com/i/alb_culture_ny145p1_1@380804/index_1500_av-p.m3u8
+#EXTINF: group-title="Dokumentare" , outdoor channel
+http://ott.artmott.com/outdoorchannel/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , FIGHT BOX
+http://84.22.33.210/FIGHTBOX/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , FILM BOX EXTRA
+http://ott.artmott.com/FILMBOXEXTRA/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , FILM BOX PLUS
+http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , FILM BOX ARTHOUSE
+http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , FASHION BOX
+http://ott.artmott.com/FASHIONBOX/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , DOCU BOX
+http://ott.artmott.com/DOCUBOX/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , FAST AND FUNBOX
+http://ott.artmott.com/FAST&FUNBOX/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , FashionTV
+http://ott.artmott.com/FashionTV/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , outdoor channel
+http://ott.artmott.com/outdoorchannel/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Dokumentare" , Travelingo
+http://ott.artmott.com/Travelingo/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Femije" , Femije
+http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Femije" , DisneyChannel
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Femije" , Nickelodeon
+http://ott.artmott.com/Nickelodeon/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Femije" , prince kids
+http://ott.artmott.com/princekids/video.m3u8
+#EXTINF: group-title="Femije" , pikaboo
+http://ott.artmott.com/pikaboo/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Femije" , vavoom
+http://ott.artmott.com/vavoom/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Femije" , CUFO
+http://84.22.33.210/cufo.ott/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Femije" , JUNIOR
+http://84.22.33.210/junior.ott/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Femije" , Tring Kids
+http://ott.artmott.com/TringKids/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Femije" , Tring Tring
+http://ott.artmott.com/TringTring/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Femije" , TipTV
+http://ott.artmott.com/TipTV/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Femije" , jimjam
+http://84.22.33.210/jimjam/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Femije" , ducktv
+http://ott.artmott.com/ducktv/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , RTV 21 Junior
+http://ott.artmott.com/21Junior/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , Rtk1
+http://ott.artmott.com/Rtk1/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , Rtk 3
+http://ott.artmott.com/Rtk3/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , Rtv21
+http://ott.artmott.com/Rtv21/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , KtvHd
+http://84.22.33.210/KtvHd/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , KlanKosova
+http://ott.artmott.com/KlanKosova/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , Dukagjini
+http://ott.artmott.com/Dukagjini/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , ArtaNews
+http://ott.artmott.com/ArtaNews/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , Rtv21M
+http://ott.artmott.com/Rtv21M/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , AljazziraBallkans
+http://ott.artmott.com/AljazziraBallkans/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , RTDocumentary
+http://ott.artmott.com/RTDocumentary/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , RTS 1
+http://ott.artmott.com/RTS/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , PRVA
+http://ott.artmott.com/Prva/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , rtcg
+http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8
+#EXTINF: group-title="Shqiptare Mix" , HRT 1
+http://ott.artmott.com/HRT1/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , HRT3
+http://ott.artmott.com/HRT3/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , AlsatM
+http://ott.artmott.com/AlsatM/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , SyriVizion
+http://ott.artmott.com/SyriVizion/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , ArtKino1
+http://ott.artmott.com/ArtKino1/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , ArtKino2
+http://ott.artmott.com/ArtKino2/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , ArtKino3
+http://ott.artmott.com:90/ArtKino3/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , ArtDoku1
+http://ott.artmott.com/ArtDoku1/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , ArtDoku2
+http://ott.artmott.com/ArtDoku2/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , Prime
+http://ott.artmott.com/Prime/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , Episode
+http://ott.artmott.com/Episode/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , EuroChannel
+http://84.22.33.218/EuroChannel/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , EnglishClubChannel
+http://84.22.33.218/EnglishClubChannel/tracks-a2/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , gurmania
+http://ott.artmott.com/gurmania/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , E!
+http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , EuroChannel
+http://84.22.33.218/EuroChannel/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , AMC
+http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , FIGHTBOX
+http://84.22.33.210/FIGHTBOX/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , FILMBOXEXTRA
+http://ott.artmott.com/FILMBOXEXTRA/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , FILMBOXPLUS
+http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , FILMBOXARTHOUSE
+http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , FAST&FUNBOX
+http://ott.artmott.com/FAST&FUNBOX/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , DOCUBOX
+http://ott.artmott.com/DOCUBOX/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , 7 HD
+http://ott.artmott.com/7HD/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , SKYACTION
+http://ott.artmott.com/SKYACTION/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , SKYCOMEDY
+http://ott.artmott.com/SKYCOMEDY/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , SKYMAX
+http://ott.artmott.com/SKYMAX/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , SKYShqip
+http://ott.artmott.com/SKYShqip/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , Suite
+http://ott.artmott.com/Suite/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , TRT 1
+http://84.22.33.210/trt1/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , AtvHd
+http://ott.artmott.com/AtvHd/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , KanalD
+http://ott.artmott.com/KanalD/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , StarTvHd
+http://ott.artmott.com/StarTvHd/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , foxturkey
+http://84.22.33.218/foxturkey/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , Sat1
+http://ott.artmott.com/Sat1/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , Sat1Gold
+http://ott.artmott.com/Sat1Gold/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , VOX
+http://ott.artmott.com/Vox/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , RTL
+http://ott.artmott.com/RTL/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , pro7Maxx
+http://ott.artmott.com/pro7Maxx/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , SuperRTL
+http://ott.artmott.com/SuperRTL/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , ARTE
+http://ott.artmott.com/Arte/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , TRTworld
+http://84.22.33.218/TRTworld/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , TringAction
+http://ott.artmott.com/TringAction/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , TringFantasy
+http://ott.artmott.com/TringFantasy/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , TringLife
+http://ott.artmott.com/TringLife/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , TringSuper
+http://ott.artmott.com:90/TringSuper/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , TringShqip
+http://ott.artmott.com/TringShqip/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , TringComedy
+http://ott.artmott.com/TringComedy/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , JollyHD
+http://ott.artmott.com/JollyHD/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , Smile
+http://ott.artmott.com/Smile/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , TringWorld
+http://ott.artmott.com/TringWorld/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , TringHistory
+http://ott.artmott.com/TringHistory/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , TringPlanet
+http://ott.artmott.com/TringPlanet/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , tringinternational
+http://ott.artmott.com/tringinternational/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , DiscoveryCH
+http://ott.artmott.com/DiscoveryCH/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , ID
+http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , TLC
+http://ott.artmott.com/TLC/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , AnimalPlanet
+http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , HistoryChannel
+http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , CrimeAndInvestigation
+http://ott.artmott.com/CrimeAndInvestigation/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , Kanali7
+http://ott.artmott.com/Kanali7/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , TVKlanPlus
+http://84.22.33.218/TVKlanPlus/tracks-a2/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , VizionPus
+http://ott.artmott.com/VizionPus/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , EraTV
+http://ott.artmott.com/EraTV/index.m3u8
+#EXTINF: group-title="Shqiptare Mix" , 21Junior
+http://ott.artmott.com/21Junior/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , Beat
+http://ott.artmott.com/Beat/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , Cartoonnet
+http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , DisneyChannel
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , Nickelodeon
+http://ott.artmott.com/Nickelodeon/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , jimjam
+http://84.22.33.210/jimjam/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , pikaboo
+http://ott.artmott.com/pikaboo/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , princekids
+http://ott.artmott.com/princekids/video.m3u8
+#EXTINF: group-title="Shqiptare Mix" , TringKids
+http://ott.artmott.com/TringKids/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , TringTring
+http://ott.artmott.com/TringTring/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , TipTV
+http://ott.artmott.com/TipTV/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , vavoom
+http://ott.artmott.com/vavoom/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , RTK 2
+http://ott.artmott.com/Rtk2/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , RTK 4
+http://ott.artmott.com/Rtk4/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , ArtSport1
+http://ott.artmott.com/ArtSport1/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , ArtSport2
+http://ott.artmott.com/ArtSport2/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , ArtSport3
+http://ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , ArtSport3
+http://ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Shqiptare Mix" , outdoorchannel
+http://ott.artmott.com/outdoorchannel/index.m3u8
+#EXTINF: group-title="Shqiptare Mix" , **** INTRO ****
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/829
+#EXTINF: group-title="Shqiptare Mix" , AL: RTK SAT HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28835
+#EXTINF: group-title="Shqiptare Mix" , AL: RTK 1 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1304
+#EXTINF: group-title="Shqiptare Mix" , AL: RTK 1 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30131
+#EXTINF: group-title="Shqiptare Mix" , AL: RTK 2 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1043
+#EXTINF: group-title="Shqiptare Mix" , AL: RTK 2 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30134
+#EXTINF: group-title="Shqiptare Mix" , AL: RTK 3 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1044
+#EXTINF: group-title="Shqiptare Mix" , AL: RTK 3 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30135
+#EXTINF: group-title="Shqiptare Mix" , AL: RTK 4 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1045
+#EXTINF: group-title="Shqiptare Mix" , AL: RTK 4 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30136
+#EXTINF: group-title="Shqiptare Mix" , AL: KTV HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/979
+#EXTINF: group-title="Shqiptare Mix" , AL: KTV FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30129
+#EXTINF: group-title="Shqiptare Mix" , AL: KTV Toksor
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26392
+#EXTINF: group-title="Shqiptare Mix" , AL: RTV 21 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1052
+#EXTINF: group-title="Shqiptare Mix" , AL: RTV 21 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30130
+#EXTINF: group-title="Shqiptare Mix" , AL: RTV 21 Toksor HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26391
+#EXTINF: group-title="Shqiptare Mix" , AL: RTV 21 Maqedonia HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1312
+#EXTINF: group-title="Shqiptare Mix" , AL: RTV 21 Maqedonia FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30138
+#EXTINF: group-title="Shqiptare Mix" , AL: Klan Kosova
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26393
+#EXTINF: group-title="Shqiptare Mix" , AL: Klan Kosova HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8371
+#EXTINF: group-title="Shqiptare Mix" , AL: Klan Kosova FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30128
+#EXTINF: group-title="Shqiptare Mix" , MK: Klan Macedonia
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25523
+#EXTINF: group-title="Shqiptare Mix" , AL: TV Dukagjini HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1873
+#EXTINF: group-title="Shqiptare Mix" , AL: TV Dukagjini FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30133
+#EXTINF: group-title="Shqiptare Mix" , AL: Top Channel
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26396
+#EXTINF: group-title="Shqiptare Mix" , AL: TOP Channel HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1310
+#EXTINF: group-title="Shqiptare Mix" , AL: Top Channel FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30137
+#EXTINF: group-title="Shqiptare Mix" , AL: Alsat M
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26397
+#EXTINF: group-title="Shqiptare Mix" , AL: ALSAT M  HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2330
+#EXTINF: group-title="Shqiptare Mix" , AL: Alsat M FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30140
+#EXTINF: group-title="Shqiptare Mix" , AL: T7
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13940
+#EXTINF: group-title="Shqiptare Mix" , AL: T7 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26417
+#EXTINF: group-title="Shqiptare Mix" , AL: T7 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30132
+#EXTINF: group-title="Shqiptare Mix" , AL: KLAN HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/976
+#EXTINF: group-title="Shqiptare Mix" , AL: Klan TV HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26394
+#EXTINF: group-title="Shqiptare Mix" , AL: TV KLAN  FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25129
+#EXTINF: group-title="Shqiptare Mix" , AL: Klan Plus
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26395
+#EXTINF: group-title="Shqiptare Mix" , AL: KLAN PLUS HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1475
+#EXTINF: group-title="Shqiptare Mix" , AL: Klan Plus FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30143
+#EXTINF: group-title="Shqiptare Mix" , AL: Vizion Plus
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1192
+#EXTINF: group-title="Shqiptare Mix" , Al: Vizion Plus HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26418
+#EXTINF: group-title="Shqiptare Mix" , AL: Vizion Plus FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30152
+#EXTINF: group-title="Shqiptare Mix" , AL: ORA HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/5868
+#EXTINF: group-title="Shqiptare Mix" , AL: ABC News
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/843
+#EXTINF: group-title="Shqiptare Mix" , AL: Kanali 7 News
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/961
+#EXTINF: group-title="Shqiptare Mix" , AL: ORA News HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1001
+#EXTINF: group-title="Shqiptare Mix" , AL: Arta News HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1178
+#EXTINF: group-title="Shqiptare Mix" , AL: Report TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1461
+#EXTINF: group-title="Shqiptare Mix" , AL: News 24  HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3452
+#EXTINF: group-title="Shqiptare Mix" , AL: News 24 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30169
+#EXTINF: group-title="Shqiptare Mix" , AL: Top News HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4673
+#EXTINF: group-title="Shqiptare Mix" , AL: Euronews FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/27158
+#EXTINF: group-title="Shqiptare Mix" , AL: TV Syri Vision
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1325
+#EXTINF: group-title="Shqiptare Mix" , AL: Fax News
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9533
+#EXTINF: group-title="Shqiptare Mix" , AL: First TV HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/944
+#EXTINF: group-title="Shqiptare Mix" , AL: MRT2 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4701
+#EXTINF: group-title="Shqiptare Mix" , AL: TV2 GOSTIVAR
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22764
+#EXTINF: group-title="Shqiptare Mix" , AL: TV Shenja
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2681
+#EXTINF: group-title="Shqiptare Mix" , AL: TV Shenja HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2545
+#EXTINF: group-title="Shqiptare Mix" , AL: TV KOPLIKU
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26419
+#EXTINF: group-title="Shqiptare Mix" , AL: RTK SERIAL
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28763
+#EXTINF: group-title="Shqiptare Mix" , AL: Rrokum TV HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1041
+#EXTINF: group-title="Shqiptare Mix" , AL: Rrokum TV FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30170
+#EXTINF: group-title="Shqiptare Mix" , AL: RTSH HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3451
+#EXTINF: group-title="Shqiptare Mix" , AL: RTSH 2
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/10912
+#EXTINF: group-title="Shqiptare Mix" , AL: RTSH 3
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11182
+#EXTINF: group-title="Shqiptare Mix" , AL: RTSH 24 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/10975
+#EXTINF: group-title="Shqiptare Mix" , AL: RTSH SHQIP
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9535
+#EXTINF: group-title="Shqiptare Mix" , AL: RTSH PLUS
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/14989
+#EXTINF: group-title="Shqiptare Mix" , AL: RTSH FILM
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/10809
+#EXTINF: group-title="Shqiptare Mix" , AL: RTSH KUKESI
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30270
+#EXTINF: group-title="Shqiptare Mix" , AL: RTSH KORÇA
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11183
+#EXTINF: group-title="Shqiptare Mix" , AL: RTSH GJIROKASTRA
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/12076
+#EXTINF: group-title="Shqiptare Mix" , AL: RTSH KUVEND
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9308
+#EXTINF: group-title="Shqiptare Mix" , AL: RTSH MUZIKE
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/12483
+#EXTINF: group-title="Shqiptare Mix" , AL: TV Mitrovica
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1326
+#EXTINF: group-title="Shqiptare Mix" , AL: Tema TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7280
+#EXTINF: group-title="Shqiptare Mix" , AL: TV Koha HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1182
+#EXTINF: group-title="Shqiptare Mix" , AL: Bang Bang
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/876
+#EXTINF: group-title="Shqiptare Mix" , AL: Cufo HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2467
+#EXTINF: group-title="Shqiptare Mix" , AL: Junior TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/958
+#EXTINF: group-title="Shqiptare Mix" , AL: Mbreti Luan FHD (2019)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/32536
+#EXTINF: group-title="Shqiptare Mix" , AL: RTV 21 Junior
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1313
+#EXTINF: group-title="Shqiptare Mix" , AL: Tip TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1160
+#EXTINF: group-title="Shqiptare Mix" , AL: Tring Tring
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1175
+#EXTINF: group-title="Shqiptare Mix" , AL: Sofia HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2487
+#EXTINF: group-title="Shqiptare Mix" , AL: Baby Tv
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3401
+#EXTINF: group-title="Shqiptare Mix" , AL: Kids
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4259
+#EXTINF: group-title="Shqiptare Mix" , AL: Duck TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/6069
+#EXTINF: group-title="Shqiptare Mix" , AL: Sole TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3289
+#EXTINF: group-title="Shqiptare Mix" , AL: KS BABY FIRST
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7694
+#EXTINF: group-title="Shqiptare Mix" , AL: KS KIDS
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3449
+#EXTINF: group-title="Shqiptare Mix" , AL: GJOLLI FËMIJËT
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26962
+#EXTINF: group-title="Shqiptare Mix" , AL: RTSH FEMIJE
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/15385
+#EXTINF: group-title="Shqiptare Mix" , AL: Film NJË HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/939
+#EXTINF: group-title="Shqiptare Mix" , AL: Film NJË FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30141
+#EXTINF: group-title="Shqiptare Mix" , AL: Film Dy HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/932
+#EXTINF: group-title="Shqiptare Mix" , AL: Film DY FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30142
+#EXTINF: group-title="Shqiptare Mix" , AL: Film Aksion
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/929
+#EXTINF: group-title="Shqiptare Mix" , AL: Film Hits
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/937
+#EXTINF: group-title="Shqiptare Mix" , AL: Film Autor
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/930
+#EXTINF: group-title="Shqiptare Mix" , AL: Film Thriller
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/941
+#EXTINF: group-title="Shqiptare Mix" , AL: Film Dramë
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/931
+#EXTINF: group-title="Shqiptare Mix" , AL: Film Komedi
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/938
+#EXTINF: group-title="Shqiptare Mix" , AL: Family HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2580
+#EXTINF: group-title="Shqiptare Mix" , AL: Euro Film
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/918
+#EXTINF: group-title="Shqiptare Mix" , AL: Jolly HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/6095
+#EXTINF: group-title="Shqiptare Mix" , AL: Jolly FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30167
+#EXTINF: group-title="Shqiptare Mix" , AL: T HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1157
+#EXTINF: group-title="Shqiptare Mix" , AL: T FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30172
+#EXTINF: group-title="Shqiptare Mix" , AL: ABC STORY
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30300
+#EXTINF: group-title="Shqiptare Mix" , AL: Stinet
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/940
+#EXTINF: group-title="Shqiptare Mix" , AL: Tring Super HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1174
+#EXTINF: group-title="Shqiptare Mix" , AL: Tring Action
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1166
+#EXTINF: group-title="Shqiptare Mix" , AL: Tring Summertime
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1163
+#EXTINF: group-title="Shqiptare Mix" , AL: Tring Fantasy
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1164
+#EXTINF: group-title="Shqiptare Mix" , AL: Tring Life
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1165
+#EXTINF: group-title="Shqiptare Mix" , AL: Tring Shqip
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1168
+#EXTINF: group-title="Shqiptare Mix" , AL: Tring Comedy
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25472
+#EXTINF: group-title="Shqiptare Mix" , AL: Tring Smile
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1124
+#EXTINF: group-title="Shqiptare Mix" , AL: Tring 3+
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/827
+#EXTINF: group-title="Shqiptare Mix" , AL: Kanal D Drama FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/32299
+#EXTINF: group-title="Shqiptare Mix" , AL: Living HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/983
+#EXTINF: group-title="Shqiptare Mix" , AL: ART Kino 1 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30078
+#EXTINF: group-title="Shqiptare Mix" , AL: ART Kino 2 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30077
+#EXTINF: group-title="Shqiptare Mix" , AL: ART Kino 3 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30076
+#EXTINF: group-title="Shqiptare Mix" , AL: Netflix Aksion
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/31020
+#EXTINF: group-title="Shqiptare Mix" , AL: Netflix Komedi
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/31021
+#EXTINF: group-title="Shqiptare Mix" , AL: Netflix Romance
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/31023
+#EXTINF: group-title="Shqiptare Mix" , AL: Netflix Aventure
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/31024
+#EXTINF: group-title="Shqiptare Mix" , AL: Netflix Epik
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/31025
+#EXTINF: group-title="Shqiptare Mix" , AL: Netflix Fantazi
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/31022
+#EXTINF: group-title="Shqiptare Mix" , AL: Netflix Femije
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/31026
+#EXTINF: group-title="Shqiptare Mix" , AL: Netflix Horror
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/31028
+#EXTINF: group-title="Shqiptare Mix" , AL: Netflix Jackie Chan
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/32535
+#EXTINF: group-title="Shqiptare Mix" , AL: KS ACTION
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26937
+#EXTINF: group-title="Shqiptare Mix" , AL: KS THRILLER HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25473
+#EXTINF: group-title="Shqiptare Mix" , AL: KS COMEDY
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/16969
+#EXTINF: group-title="Shqiptare Mix" , AL: KS DRAMA
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/20755
+#EXTINF: group-title="Shqiptare Mix" , AL: KS HORROR
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13091
+#EXTINF: group-title="Shqiptare Mix" , AL: KS FAMILY
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26918
+#EXTINF: group-title="Shqiptare Mix" , AL: KS SHQIP
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/27011
+#EXTINF: group-title="Shqiptare Mix" , AL: KS EPIC HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/21883
+#EXTINF: group-title="Shqiptare Mix" , AL: KS HINDI HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/16967
+#EXTINF: group-title="Shqiptare Mix" , AL: KS SERIAL
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9754
+#EXTINF: group-title="Shqiptare Mix" , AL: KS PREMIER 1 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29057
+#EXTINF: group-title="Shqiptare Mix" , AL: KS PREMIER 2 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29058
+#EXTINF: group-title="Shqiptare Mix" , AL: KS PREMIER 3 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29059
+#EXTINF: group-title="Shqiptare Mix" , AL: KS PREMIER 4 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29060
+#EXTINF: group-title="Shqiptare Mix" , AL: KS Filma24 Famiy
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26919
+#EXTINF: group-title="Shqiptare Mix" , AL: KS Filma24 Premiere
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26920
+#EXTINF: group-title="Shqiptare Mix" , AL: KS Filma24 Oscars
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26921
+#EXTINF: group-title="Shqiptare Mix" , AL: KS Filma24 Aksion
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26922
+#EXTINF: group-title="Shqiptare Mix" , AL: KS Filma24 Drame
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26924
+#EXTINF: group-title="Shqiptare Mix" , AL: KS Filma24 Aventure
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26925
+#EXTINF: group-title="Shqiptare Mix" , AL: KS Filma24 Romance
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26926
+#EXTINF: group-title="Shqiptare Mix" , AL: KS Filma24 Biografi
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26927
+#EXTINF: group-title="Shqiptare Mix" , AL: KS Filma24 Krim
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26928
+#EXTINF: group-title="Shqiptare Mix" , AL: KS Filma24 Triller
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26929
+#EXTINF: group-title="Shqiptare Mix" , AL: KS Filma24 Mister
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26930
+#EXTINF: group-title="Shqiptare Mix" , AL: KS Filma24 Horror
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26931
+#EXTINF: group-title="Shqiptare Mix" , AL: KS Filma24 SCI-Fi
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26932
+#EXTINF: group-title="Shqiptare Mix" , AL: KS Filma24 Western
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26933
+#EXTINF: group-title="Shqiptare Mix" , AL: KS Filma24 Hindi
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26935
+#EXTINF: group-title="Shqiptare Mix" , AL: KS Filma24 Aziatika
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26936
+#EXTINF: group-title="Shqiptare Mix" , AL: KS STUPCAT FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/27177
+#EXTINF: group-title="Shqiptare Mix" , AL: KAFENEJA JONE 24/7 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29097
+#EXTINF: group-title="Shqiptare Mix" , AL: Aksion
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2609
+#EXTINF: group-title="Shqiptare Mix" , AL: Komedi
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1879
+#EXTINF: group-title="Shqiptare Mix" , AL: Dramë
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2098
+#EXTINF: group-title="Shqiptare Mix" , AL: FilmBox Premium
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28717
+#EXTINF: group-title="Shqiptare Mix" , AL: FilmBox Extra
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28718
+#EXTINF: group-title="Shqiptare Mix" , AL: FilmBox Plus HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28719
+#EXTINF: group-title="Shqiptare Mix" , AL: Sky Komedi
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30082
+#EXTINF: group-title="Shqiptare Mix" , AL: Sky Drame
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30083
+#EXTINF: group-title="Shqiptare Mix" , AL: Sky Novela
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30085
+#EXTINF: group-title="Shqiptare Mix" , AL: Sky Aksion
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30086
+#EXTINF: group-title="Shqiptare Mix" , AL: Sky Planet
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30087
+#EXTINF: group-title="Shqiptare Mix" , AL: Sky Histori
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30088
+#EXTINF: group-title="Shqiptare Mix" , AL: 7 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/6074
+#EXTINF: group-title="Shqiptare Mix" , AL: Explorer Histori
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/922
+#EXTINF: group-title="Shqiptare Mix" , AL: Explorer Natyra
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/923
+#EXTINF: group-title="Shqiptare Mix" , AL: Tring Planet
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1167
+#EXTINF: group-title="Shqiptare Mix" , AL: Tring World
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1176
+#EXTINF: group-title="Shqiptare Mix" , AL: Tring History
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1316
+#EXTINF: group-title="Shqiptare Mix" , AL: ART Doku 1 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30074
+#EXTINF: group-title="Shqiptare Mix" , AL: ART Doku 2 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30075
+#EXTINF: group-title="Shqiptare Mix" , AL: KS HUNTING
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/27033
+#EXTINF: group-title="Shqiptare Mix" , AL: National Geographic
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3850
+#EXTINF: group-title="Shqiptare Mix" , AL: Travel Channel
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3872
+#EXTINF: group-title="Shqiptare Mix" , AL: Travelingo TV FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28897
+#EXTINF: group-title="Shqiptare Mix" , AL: Animal Planet HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/10916
+#EXTINF: group-title="Shqiptare Mix" , AL: Planet
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11853
+#EXTINF: group-title="Shqiptare Mix" , AL: Novela
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3846
+#EXTINF: group-title="Shqiptare Mix" , AL: FOX
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4116
+#EXTINF: group-title="Shqiptare Mix" , AL: FOX Life
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3849
+#EXTINF: group-title="Shqiptare Mix" , AL: FOX Crime
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3893
+#EXTINF: group-title="Shqiptare Mix" , AL: FOX Movies
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11512
+#EXTINF: group-title="Shqiptare Mix" , AL: Comedy Central Extra
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/20912
+#EXTINF: group-title="Shqiptare Mix" , AL: KS POPULLORE HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/16730
+#EXTINF: group-title="Shqiptare Mix" , AL: RTV Sharri
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1055
+#EXTINF: group-title="Shqiptare Mix" , AL: Folk +
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/945
+#EXTINF: group-title="Shqiptare Mix" , AL: Top Estrada TV HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2653
+#EXTINF: group-title="Shqiptare Mix" , AL: Dasma TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1324
+#EXTINF: group-title="Shqiptare Mix" , AL: TV Opoja
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1185
+#EXTINF: group-title="Shqiptare Mix" , AL: TV Diaspora
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1179
+#EXTINF: group-title="Shqiptare Mix" , AL: Shota TV 4K UHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22474
+#EXTINF: group-title="Shqiptare Mix" , AL: ASHK 1 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2096
+#EXTINF: group-title="Shqiptare Mix" , AL: ASHK2 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2322
+#EXTINF: group-title="Shqiptare Mix" , AL: KS MUSIC 4K
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26060
+#EXTINF: group-title="Shqiptare Mix" , AL: Rtv Zeri Danimarke
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8281
+#EXTINF: group-title="Shqiptare Mix" , AL: KS HITS HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9936
+#EXTINF: group-title="Shqiptare Mix" , AL: BBF Music
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/880
+#EXTINF: group-title="Shqiptare Mix" , AL: ZICO TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1202
+#EXTINF: group-title="Shqiptare Mix" , AL: Supersonic TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1302
+#EXTINF: group-title="Shqiptare Mix" , AL: Elrodi TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2615
+#EXTINF: group-title="Shqiptare Mix" , AL: Turbo Channel HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2479
+#EXTINF: group-title="Shqiptare Mix" , AL: TV Tetova
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1575
+#EXTINF: group-title="Shqiptare Mix" , AL: SOT7 POGRADEC
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2727
+#EXTINF: group-title="Shqiptare Mix" , AL: DIBRA TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29861
+#EXTINF: group-title="Shqiptare Mix" , AL: LOBI TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2478
+#EXTINF: group-title="Shqiptare Mix" , AL: MTV Kosova
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2544
+#EXTINF: group-title="Shqiptare Mix" , AL: RTV 21 Plus HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2568
+#EXTINF: group-title="Shqiptare Mix" , AL: RTV 21 Plus FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30139
+#EXTINF: group-title="Shqiptare Mix" , AL: Syri Blue FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4659
+#EXTINF: group-title="Shqiptare Mix" , AL: ALB UK HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2573
+#EXTINF: group-title="Shqiptare Mix" , AL: Tv Boin HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/19234
+#EXTINF: group-title="Shqiptare Mix" , AL: Spin TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22745
+#EXTINF: group-title="Shqiptare Mix" , AL: Muse
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2488
+#EXTINF: group-title="Shqiptare Mix" , AL: Besa TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/890
+#EXTINF: group-title="Shqiptare Mix" , AL: TV OPINION FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/12084
+#EXTINF: group-title="Shqiptare Mix" , AL: Star+ Shkodra
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3852
+#EXTINF: group-title="Shqiptare Mix" , AL: TV 1 Channel Shkodër FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8882
+#EXTINF: group-title="Shqiptare Mix" , AL: TV Dielli HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/6262
+#EXTINF: group-title="Shqiptare Mix" , AL: MALISHEVA TV FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26915
+#EXTINF: group-title="Shqiptare Mix" , AL: GlobiTV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2601
+#EXTINF: group-title="Shqiptare Mix" , AL: Fashion TV FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3847
+#EXTINF: group-title="Shqiptare Mix" , AL: Alpo Tv Gjirokastër
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3470
+#EXTINF: group-title="Shqiptare Mix" , AL: RTV Islam
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1054
+#EXTINF: group-title="Shqiptare Mix" , AL: RTV Pendimi
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13302
+#EXTINF: group-title="Shqiptare Mix" , AL: GJOLLI ISLAM
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26948
+#EXTINF: group-title="Shqiptare Mix" , AL: GJOLLI KURAN 24/7
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/31252
+#EXTINF: group-title="Shqiptare Mix" , AL: TV ASHKALI ISLAM
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/27068
+#EXTINF: group-title="Shqiptare Mix" , AL: KS FILM ISLAM
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22797
+#EXTINF: group-title="Shqiptare Mix" , AL: LUGINA ISLAM
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22825
+#EXTINF: group-title="Shqiptare Mix" , AL: LUGINA ISLAM 2
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4163
+#EXTINF: group-title="Shqiptare Mix" , AL: ISLAM  TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22823
+#EXTINF: group-title="Shqiptare Mix" , AL: KURANI SHQIP
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22803
+#EXTINF: group-title="Shqiptare Mix" , KSA: Quran TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1569
+#EXTINF: group-title="Shqiptare Mix" , KSA: Sunnah TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1570
+#EXTINF: group-title="Shqiptare Mix" , AL: Premium Channel
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28749
+#EXTINF: group-title="Shqiptare Mix" , AL: TV PRIZRENI
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28816
+#EXTINF: group-title="Shqiptare Mix" , AL: MFM MUSIC
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22888
+#EXTINF: group-title="Shqiptare Mix" , AL: ROZAFA TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28831
+#EXTINF: group-title="Shqiptare Mix" , AL: ISTOGU CHANNEL HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28834
+#EXTINF: group-title="Shqiptare Mix" , AL: BUBRRECI TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22821
+#EXTINF: group-title="Shqiptare Mix" , AL: Ksport Përralla
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/12494
+#EXTINF: group-title="Shqiptare Mix" , AL: TV KOMBI
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22877
+#EXTINF: group-title="Shqiptare Mix" , AL: TV LIRIA
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22891
+#EXTINF: group-title="Shqiptare Mix" , AL: DRINI TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/23220
+#EXTINF: group-title="Shqiptare Mix" , AL: FRAME TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22890
+#EXTINF: group-title="Shqiptare Mix" , AL: ILIRIDA TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/23956
+#EXTINF: group-title="Shqiptare Mix" , AL: Drita Tv
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29102
+#EXTINF: group-title="Shqiptare Mix" , AL: PORTOKALLI 24/7 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29245
+#EXTINF: group-title="Shqiptare Mix" , AL: Smile
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30090
+#EXTINF: group-title="Shqiptare Mix" , AL: 3 Plus
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30091
+#EXTINF: group-title="Shqiptare Mix" , AL: Nat Geo Wild
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/12893
+#EXTINF: group-title="Shqiptare Mix" , AL: A-MOL
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/12866
+#EXTINF: group-title="Shqiptare Mix" , AL: Albanian Culture
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/19236
+#EXTINF: group-title="Shqiptare Mix" , AL: On Tv
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/19260
+#EXTINF: group-title="Shqiptare Mix" , AL: Euro AL
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/19262
+#EXTINF: group-title="Shqiptare Mix" , AL: PLISI ÇIFTELIA
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22761
+#EXTINF: group-title="Shqiptare Mix" , AL: Super Sport 2 Kosova FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30151
+#EXTINF: group-title="Shqiptare Mix" , AL: Super Sport 1 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30144
+#EXTINF: group-title="Shqiptare Mix" , AL: Super Sport 2 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30145
+#EXTINF: group-title="Shqiptare Mix" , AL: Super Sport 3 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30146
+#EXTINF: group-title="Shqiptare Mix" , AL: Super Sport 5 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30148
+#EXTINF: group-title="Shqiptare Mix" , AL: Super Sport 6 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30149
+#EXTINF: group-title="Shqiptare Mix" , AL: K Sport 1 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30162
+#EXTINF: group-title="Shqiptare Mix" , AL: K Sport 2 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30163
+#EXTINF: group-title="Shqiptare Mix" , AL: K Sport 4 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30165
+#EXTINF: group-title="Shqiptare Mix" , AL: K Sport 5 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30166
+#EXTINF: group-title="Shqiptare Mix" , AL: Tring Sport 4 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30156
+#EXTINF: group-title="Shqiptare Mix" , AL: ART Sport 1 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30158
+#EXTINF: group-title="Shqiptare Mix" , AL: ART Sport 2 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30159
+#EXTINF: group-title="Shqiptare Mix" , AL: ART Sport 3 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30160
+#EXTINF: group-title="Shqiptare Mix" , AL: TDC
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25570
+#EXTINF: group-title="Shqiptare Mix" , AL: AL PAZAR
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26188
+#EXTINF: group-title="Shqiptare Mix" , AL: Frozen II 4K- 2019
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/31061
+#EXTINF: group-title="Shqiptare Mix" , Annem (2019)
+http://ksportiptv.com:1557/movie/selveri/STwM6dEWmO/32417.mp4
+#EXTINF: group-title="Shqiptare Mix" , La Casa de Papel: The Phenomenon - 2020 (Dokumentar)
+http://ksportiptv.com:1557/movie/selveri/STwM6dEWmO/32441.mp4
+#EXTINF: group-title="Shqiptare Mix" , The Call of the Wild - 2020
+http://ksportiptv.com:1557/movie/selveri/STwM6dEWmO/32466.mp4
+#EXTINF: group-title="Shqiptare Mix" , My Spy - 2020
+http://ksportiptv.com:1557/movie/selveri/STwM6dEWmO/32489.mp4
+#EXTINF: group-title="Shqiptare Mix" , Like a Boss - 2020
+http://ksportiptv.com:1557/movie/selveri/STwM6dEWmO/32503.mp4
+#EXTINF: group-title="Shqiptare Mix" , Një tregim Prishtine - Film artistik
+http://ksportiptv.com:1557/movie/selveri/STwM6dEWmO/32513.mp4
+#EXTINF: group-title="Shqiptare Mix" , Öldür Beni Sevgilim  2019 (Më vrisni e dashur)
+http://ksportiptv.com:1557/movie/selveri/STwM6dEWmO/32514.mp4
+#EXTINF: group-title="Shqiptare Mix" , The Hunt - 2020
+http://ksportiptv.com:1557/movie/selveri/STwM6dEWmO/32515.mp4
+#EXTINF: group-title="Shqiptare Mix" , The Turning - 2020
+http://ksportiptv.com:1557/movie/selveri/STwM6dEWmO/32516.mp4
+#EXTINF: group-title="Shqiptare Mix" , I Still Believe - 2020
+http://ksportiptv.com:1557/movie/selveri/STwM6dEWmO/32517.mp4
+#EXTINF: group-title="Shqiptare Mix" , Junglee - 2019
+http://ksportiptv.com:1557/movie/selveri/STwM6dEWmO/32533.mp4
+#EXTINF: group-title="Shqiptare Mix" , Impractical Jokers: The Movie - 2020
+http://ksportiptv.com:1557/movie/selveri/STwM6dEWmO/32543.mp4
+#EXTINF: group-title="Shqiptare Mix" , DE: Das Erste SD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/917
+#EXTINF: group-title="Shqiptare Mix" , DE: Das Erste HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9764
+#EXTINF: group-title="Shqiptare Mix" , DE: ZDF info HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13892
+#EXTINF: group-title="Shqiptare Mix" , DE: ZDFneo HD d3
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25124
+#EXTINF: group-title="Shqiptare Mix" , DE: RTL FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9756
+#EXTINF: group-title="Shqiptare Mix" , DE: RTL II
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1047
+#EXTINF: group-title="Shqiptare Mix" , DE: RTL II HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9757
+#EXTINF: group-title="Shqiptare Mix" , DE: RTL Living HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3375
+#EXTINF: group-title="Shqiptare Mix" , DE: RTL Passion
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3392
+#EXTINF: group-title="Shqiptare Mix" , DE: RTL Crime
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3393
+#EXTINF: group-title="Shqiptare Mix" , DE: Super RTL HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1514
+#EXTINF: group-title="Shqiptare Mix" , DE: Kabel 1
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/959
+#EXTINF: group-title="Shqiptare Mix" , DE: Kabel 1  HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1731
+#EXTINF: group-title="Shqiptare Mix" , DE: Kabel 1 Classic HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3383
+#EXTINF: group-title="Shqiptare Mix" , DE: Kabel 1 Doku
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/5831
+#EXTINF: group-title="Shqiptare Mix" , DE: Pro7 Fun HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3377
+#EXTINF: group-title="Shqiptare Mix" , DE: Sat 1 Gold
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3376
+#EXTINF: group-title="Shqiptare Mix" , DE: Sat 1 Emotions HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8962
+#EXTINF: group-title="Shqiptare Mix" , DE: 3Sat SD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13894
+#EXTINF: group-title="Shqiptare Mix" , DE: 3Sat HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1849
+#EXTINF: group-title="Shqiptare Mix" , DE: 3Sat HD d3
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25116
+#EXTINF: group-title="Shqiptare Mix" , DE: VOX
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1193
+#EXTINF: group-title="Shqiptare Mix" , DE: Tele 5 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3379
+#EXTINF: group-title="Shqiptare Mix" , DE: NITRO
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1850
+#EXTINF: group-title="Shqiptare Mix" , DE: WDR HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8961
+#EXTINF: group-title="Shqiptare Mix" , DE: MDR HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13242
+#EXTINF: group-title="Shqiptare Mix" , DE: ORF 1 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1002
+#EXTINF: group-title="Shqiptare Mix" , DE: ATV HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11179
+#EXTINF: group-title="Shqiptare Mix" , DE: ATV 2
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22499
+#EXTINF: group-title="Shqiptare Mix" , DE: Puls 4
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22498
+#EXTINF: group-title="Shqiptare Mix" , DE: Arte
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1857
+#EXTINF: group-title="Shqiptare Mix" , DE: 13th Street HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3384
+#EXTINF: group-title="Shqiptare Mix" , DE: SYFY
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3385
+#EXTINF: group-title="Shqiptare Mix" , DE: E! HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3389
+#EXTINF: group-title="Shqiptare Mix" , DE: 13th Street FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9760
+#EXTINF: group-title="Shqiptare Mix" , DE: AXN
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9763
+#EXTINF: group-title="Shqiptare Mix" , DE: ======== SKY CINEMA SD (langsame Geschwindigkeit) ========
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13917
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Cinema SD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13895
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Cinema +1 SD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13896
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Cinema Hits SD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13898
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Cinema Emotion SD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13908
+#EXTINF: group-title="Shqiptare Mix" , DE: ======== SKY CINEMA HD (normale Geschwindigkeit) ========
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13916
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky 1
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7331
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky 1 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9774
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Cinema Action HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1522
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Cinema Hits HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1758
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Cinema Comedy HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13910
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Cinema Family HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13905
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Atlantic
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1062
+#EXTINF: group-title="Shqiptare Mix" , DE: ======== SKY CINEMA FHD (schnelle Geschwindigkeit) ========
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13915
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Cinema Action FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9778
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Cinema Emotion FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1554
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Cinema Comedy FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1081
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Cinema Family FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9531
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Cinema WESTERN
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2586
+#EXTINF: group-title="Shqiptare Mix" , DE: ======== FILME ========
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13919
+#EXTINF: group-title="Shqiptare Mix" , DE: POPCORN SELECT 5
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28813
+#EXTINF: group-title="Shqiptare Mix" , DE: Anixe SD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9721
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Krimi
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1086
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky DMAX
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1579
+#EXTINF: group-title="Shqiptare Mix" , DE: ======== WISSENSCHAFT UND NATUR ========
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13912
+#EXTINF: group-title="Shqiptare Mix" , DE: Spiegel TV Wissen
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9726
+#EXTINF: group-title="Shqiptare Mix" , DE: Welt Der Wunder
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9728
+#EXTINF: group-title="Shqiptare Mix" , DE: National Geographic
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1089
+#EXTINF: group-title="Shqiptare Mix" , DE: History Channel HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9767
+#EXTINF: group-title="Shqiptare Mix" , DE: History Channel
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1844
+#EXTINF: group-title="Shqiptare Mix" , DE: Travel Channel HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22135
+#EXTINF: group-title="Shqiptare Mix" , DE: Discovery Channel
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3394
+#EXTINF: group-title="Shqiptare Mix" , DE: WELT HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4925
+#EXTINF: group-title="Shqiptare Mix" , DE: Animal Planet HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9762
+#EXTINF: group-title="Shqiptare Mix" , DE: N24 Doku
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/17122
+#EXTINF: group-title="Shqiptare Mix" , DE: Motorvision HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3391
+#EXTINF: group-title="Shqiptare Mix" , DE: Auto Motor Sport HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11017
+#EXTINF: group-title="Shqiptare Mix" , DE: ======== MUSIC ========
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13911
+#EXTINF: group-title="Shqiptare Mix" , DE: MTV Germany HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/6288
+#EXTINF: group-title="Shqiptare Mix" , DE: Deluxe Music HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9724
+#EXTINF: group-title="Shqiptare Mix" , DE: Deluxe Music d3
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25111
+#EXTINF: group-title="Shqiptare Mix" , DE: GO TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11833
+#EXTINF: group-title="Shqiptare Mix" , DE: ======== KINDER ========
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13920
+#EXTINF: group-title="Shqiptare Mix" , DE: KIKA HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1765
+#EXTINF: group-title="Shqiptare Mix" , DE: Cartoon Network
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3395
+#EXTINF: group-title="Shqiptare Mix" , DE: Disney Channel
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2584
+#EXTINF: group-title="Shqiptare Mix" , DE: Disney Cinemagic
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1082
+#EXTINF: group-title="Shqiptare Mix" , DE: Disney Junior
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2621
+#EXTINF: group-title="Shqiptare Mix" , DE: Nick HD d3
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25109
+#EXTINF: group-title="Shqiptare Mix" , DE: Nickelodeon
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1087
+#EXTINF: group-title="Shqiptare Mix" , DE: Nickelodeon Schweiz HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2590
+#EXTINF: group-title="Shqiptare Mix" , DE: Boomerang
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2588
+#EXTINF: group-title="Shqiptare Mix" , DE: Junior HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2589
+#EXTINF: group-title="Shqiptare Mix" , DE: Toggo Plus
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/14907
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select Vitrine HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/6151
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select 1 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11003
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select 3 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11005
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select 5 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11007
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select 6 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11009
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select 7 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11011
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select 9 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11014
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select 10 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/10737
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select 11 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/10742
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select 12 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/10743
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select 13 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25328
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select 15 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25330
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select 16 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25331
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select 17 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25332
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select 18 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/31017
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select 1 4K
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25481
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select 2 4K
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25482
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select 3 4K
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25483
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select 4 4K
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25484
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select 5 4K
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25485
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select 6 4K
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25486
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select 8 4K
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25892
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select 9 4K
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25893
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select Mutivision 1 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/23018
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select Mutivision 2 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/23019
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select Multivision 1 4K
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25894
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Select Multivision 2 4K
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25895
+#EXTINF: group-title="Shqiptare Mix" , *DE: Eagle Cinema KINOSAAL (GERINGE QUALITÄT)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22477
+#EXTINF: group-title="Shqiptare Mix" , *DE: Eagle Cinema Premiere HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22478
+#EXTINF: group-title="Shqiptare Mix" , *DE: Eagle Cinema Aktion HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22479
+#EXTINF: group-title="Shqiptare Mix" , *DE: Eagle Cinema Abenteuer HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22481
+#EXTINF: group-title="Shqiptare Mix" , *DE: Eagle Cinema Animation HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22482
+#EXTINF: group-title="Shqiptare Mix" , *DE: Eagle Cinema Thriller HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22483
+#EXTINF: group-title="Shqiptare Mix" , *DE: Eagle Cinema Sci-Fi HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22488
+#EXTINF: group-title="Shqiptare Mix" , *DE: Eagle Cinema Lächeln HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22648
+#EXTINF: group-title="Shqiptare Mix" , *DE: Eagle Cinema Mythologie HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/23028
+#EXTINF: group-title="Shqiptare Mix" , *DE: Eagle PJ MASKS FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/23094
+#EXTINF: group-title="Shqiptare Mix" , *DE: Eagle Cinema Religion HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25584
+#EXTINF: group-title="Shqiptare Mix" , *DE: Eagle Entdeckernatur 4K UHD (multilanguage)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26415
+#EXTINF: group-title="Shqiptare Mix" , *DE: Eagle Cinema 007 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26420
+#EXTINF: group-title="Shqiptare Mix" , DE: RTL HD (usa time)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/14575
+#EXTINF: group-title="Shqiptare Mix" , DE: ARD One HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/18809
+#EXTINF: group-title="Shqiptare Mix" , DE: BR Süd TV HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/20117
+#EXTINF: group-title="Shqiptare Mix" , DE: SWR TV HD (Baden-Württemberg) d3
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/20118
+#EXTINF: group-title="Shqiptare Mix" , DE: Beatz TV HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/17126
+#EXTINF: group-title="Shqiptare Mix" , DE: Servus TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/20254
+#EXTINF: group-title="Shqiptare Mix" , DE: Welt N24 TV HD d3
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25115
+#EXTINF: group-title="Shqiptare Mix" , DE: Arte HD d3
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25117
+#EXTINF: group-title="Shqiptare Mix" , DE: RBB TV HD d3
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25119
+#EXTINF: group-title="Shqiptare Mix" , DE: WDR HD d3
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25120
+#EXTINF: group-title="Shqiptare Mix" , DE: ARD ALPHA HD d3
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25123
+#EXTINF: group-title="Shqiptare Mix" , DE: M4 MostviertelTV FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25136
+#EXTINF: group-title="Shqiptare Mix" , DE: OK STENDAL FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25143
+#EXTINF: group-title="Shqiptare Mix" , DE: OK MERSEBURG FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25145
+#EXTINF: group-title="Shqiptare Mix" , DE: OK MAGDEBURG REGGIO TV FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25146
+#EXTINF: group-title="Shqiptare Mix" , DE: OK DESSAU FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25147
+#EXTINF: group-title="Shqiptare Mix" , DE: TV HALLE HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25148
+#EXTINF: group-title="Shqiptare Mix" , DE: RBW FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25149
+#EXTINF: group-title="Shqiptare Mix" , DE: RAN 1 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25150
+#EXTINF: group-title="Shqiptare Mix" , DE: PUNKT UM FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25151
+#EXTINF: group-title="Shqiptare Mix" , DE: Kultur MD FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25152
+#EXTINF: group-title="Shqiptare Mix" , DE: ElbeKanal
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25154
+#EXTINF: group-title="Shqiptare Mix" , DE: BLK TV FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25155
+#EXTINF: group-title="Shqiptare Mix" , DE: QVC HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25160
+#EXTINF: group-title="Shqiptare Mix" , DE: Oberlausitz TV HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25161
+#EXTINF: group-title="Shqiptare Mix" , DE: Oldenburg Eins HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25163
+#EXTINF: group-title="Shqiptare Mix" , DE: Oberpfalz TV FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25165
+#EXTINF: group-title="Shqiptare Mix" , DE: Die Neue Zeit TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25166
+#EXTINF: group-title="Shqiptare Mix" , DE: naheTV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25167
+#EXTINF: group-title="Shqiptare Mix" , DE: MDF.1 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25168
+#EXTINF: group-title="Shqiptare Mix" , DE: Leipzig TV FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25172
+#EXTINF: group-title="Shqiptare Mix" , DE: Dresden TV FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25173
+#EXTINF: group-title="Shqiptare Mix" , DE: Chemnitz TV FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25174
+#EXTINF: group-title="Shqiptare Mix" , DE: FRF Friesischer Rundfunk 1 TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25178
+#EXTINF: group-title="Shqiptare Mix" , DE: TVM
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25179
+#EXTINF: group-title="Shqiptare Mix" , DE: DRF1
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25180
+#EXTINF: group-title="Shqiptare Mix" , DE: Baden Tv HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25182
+#EXTINF: group-title="Shqiptare Mix" , DE: ARD Tagesschau 24 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25183
+#EXTINF: group-title="Shqiptare Mix" , DE: DW Deutsche Welle
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25184
+#EXTINF: group-title="Shqiptare Mix" , DE: HR TV HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25185
+#EXTINF: group-title="Shqiptare Mix" , AU: Puls4
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/14357
+#EXTINF: group-title="Shqiptare Mix" , AT: W24 HD wien
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25132
+#EXTINF: group-title="Shqiptare Mix" , AT: KroneHit TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25176
+#EXTINF: group-title="Shqiptare Mix" , DE: FC BAYERN TV HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/14348
+#EXTINF: group-title="Shqiptare Mix" , DE: Eurosport HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/14455
+#EXTINF: group-title="Shqiptare Mix" , DE: Eurosport 2 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/14454
+#EXTINF: group-title="Shqiptare Mix" , DE: Eurosport 2 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30202
+#EXTINF: group-title="Shqiptare Mix" , DE: Sportdigital HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/14456
+#EXTINF: group-title="Shqiptare Mix" , DE: Sportdigital FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30174
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Sport 2 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30205
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Sport 3 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30200
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Sport 7 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30194
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Sport 10 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30191
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Sport Bundesliga 1 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30190
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Sport Bundesliga 2 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30189
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Sport Bundesliga 6 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30186
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Sport Bundesliga 8 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30182
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Sport Bundesliga 9 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30179
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Sport Bundesliga 10 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30177
+#EXTINF: group-title="Shqiptare Mix" , DE: Motorvision TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/14445
+#EXTINF: group-title="Shqiptare Mix" , DE: AutoMotorSport HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/14444
+#EXTINF: group-title="Shqiptare Mix" , DE: Motorsport.tv
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/14443
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Krimi
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/14424
+#EXTINF: group-title="Shqiptare Mix" , DE: Fix and Foxi
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/14411
+#EXTINF: group-title="Shqiptare Mix" , DE: VIVA / Comedy Central
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/14381
+#EXTINF: group-title="Shqiptare Mix" , DE: ======== SPORT ========
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13913
+#EXTINF: group-title="Shqiptare Mix" , DE: Eurosport 1 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30204
+#EXTINF: group-title="Shqiptare Mix" , DE: ORF Sport+ FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30207
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY SPORT FOOTBALL HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26659
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY SPORT FOOTBALL FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26660
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY SPORT F1 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26661
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY SPORT COLLECTION FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26663
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY SPORT ARENA FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26665
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY SPORT 24 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26666
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY DAZN SATELLITE FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26672
+#EXTINF: group-title="Shqiptare Mix" , ^IT MOTO GP FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26674
+#EXTINF: group-title="Shqiptare Mix" , ^IT SUPERTENNIS
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26675
+#EXTINF: group-title="Shqiptare Mix" , ^IT Sport Italia Solo Calcio
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26678
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY Sport 252 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26702
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY Sport 252 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26703
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY Sport 253 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26704
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY SPORT SERIE A HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26698
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY SPORT SERIE A FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26699
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY Sport 251 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26700
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY Sport uno HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26710
+#EXTINF: group-title="Shqiptare Mix" , ^IT Roma Channel
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26712
+#EXTINF: group-title="Shqiptare Mix" , ^IT Torino Channel
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26714
+#EXTINF: group-title="Shqiptare Mix" , ^IT Milan Channel
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26715
+#EXTINF: group-title="Shqiptare Mix" , ^IT Dazn Web  5 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26792
+#EXTINF: group-title="Shqiptare Mix" , ^IT Dazn Sport 2 Full HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26785
+#EXTINF: group-title="Shqiptare Mix" , ^IT Dazn Web 1 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26784
+#EXTINF: group-title="Shqiptare Mix" , ^IT Dazn Sport 3 Full HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26787
+#EXTINF: group-title="Shqiptare Mix" , ^IT DAZN 10 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26514
+#EXTINF: group-title="Shqiptare Mix" , ^IT Bike Channel
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26682
+#EXTINF: group-title="Shqiptare Mix" , ^IT LAZIO CHANNEL
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26713
+#EXTINF: group-title="Shqiptare Mix" , ^IT EUROSPORT 1 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26718
+#EXTINF: group-title="Shqiptare Mix" , ^IT Eurosport 2 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26720
+#EXTINF: group-title="Shqiptare Mix" , ^IT Dazn Sport 4 Full HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26789
+#EXTINF: group-title="Shqiptare Mix" , ^IT Dazn Sport 5 Full HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26791
+#EXTINF: group-title="Shqiptare Mix" , ^IT Dazn Sport 7 Full HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26795
+#EXTINF: group-title="Shqiptare Mix" , IT: COMPANY TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4169
+#EXTINF: group-title="Shqiptare Mix" , IT: Alpa Uno TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4179
+#EXTINF: group-title="Shqiptare Mix" , IT: RTV SPORT
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4627
+#EXTINF: group-title="Shqiptare Mix" , IT: HSE24
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26464
+#EXTINF: group-title="Shqiptare Mix" , IT: Radio Italia TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26460
+#EXTINF: group-title="Shqiptare Mix" , IT: Deejay TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26459
+#EXTINF: group-title="Shqiptare Mix" , IT: Canale8
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4182
+#EXTINF: group-title="Shqiptare Mix" , IT: NOVE HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4166
+#EXTINF: group-title="Shqiptare Mix" , IT: Canale 8 (Campania)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3621
+#EXTINF: group-title="Shqiptare Mix" , IT: Rossini TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4151
+#EXTINF: group-title="Shqiptare Mix" , IT: ReteSole Lazio
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4153
+#EXTINF: group-title="Shqiptare Mix" , IT: Julie Italia (Campania)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4155
+#EXTINF: group-title="Shqiptare Mix" , IT: Studio 100
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4156
+#EXTINF: group-title="Shqiptare Mix" , IT: TG Norba 24
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4157
+#EXTINF: group-title="Shqiptare Mix" , IT: Canale 7 Ita
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4160
+#EXTINF: group-title="Shqiptare Mix" , IT: Primocanale TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4177
+#EXTINF: group-title="Shqiptare Mix" , IT: Canale 2 (Basilicata)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4178
+#EXTINF: group-title="Shqiptare Mix" , IT: TeleColore (Campania)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4181
+#EXTINF: group-title="Shqiptare Mix" , IT: Tv 6 (Abruzzo)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4184
+#EXTINF: group-title="Shqiptare Mix" , IT: Video Star TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4187
+#EXTINF: group-title="Shqiptare Mix" , IT: Canale 85 (Basilicata)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4188
+#EXTINF: group-title="Shqiptare Mix" , IT: Di.TV 90
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4192
+#EXTINF: group-title="Shqiptare Mix" , IT: Tele Video Agrigento
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4194
+#EXTINF: group-title="Shqiptare Mix" , IT: Radio Norba TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4198
+#EXTINF: group-title="Shqiptare Mix" , IT: eTV Marche
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4199
+#EXTINF: group-title="Shqiptare Mix" , IT: Video Calabria (Calabria)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4201
+#EXTINF: group-title="Shqiptare Mix" , IT: Esperia TV (Calabria)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4202
+#EXTINF: group-title="Shqiptare Mix" , IT: TV Luna
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4203
+#EXTINF: group-title="Shqiptare Mix" , IT: CAMPANE GOLD 1
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4204
+#EXTINF: group-title="Shqiptare Mix" , IT: Canale 21 Lazio
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4205
+#EXTINF: group-title="Shqiptare Mix" , IT: Tele Chiara
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4209
+#EXTINF: group-title="Shqiptare Mix" , IT: Vera TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4211
+#EXTINF: group-title="Shqiptare Mix" , IT: RADIO 51
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4213
+#EXTINF: group-title="Shqiptare Mix" , IT: RETE VENETA
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4216
+#EXTINF: group-title="Shqiptare Mix" , IT: LA TR3
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4217
+#EXTINF: group-title="Shqiptare Mix" , IT: TeleSondrioNews
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4619
+#EXTINF: group-title="Shqiptare Mix" , IT: TeleSondrio Livigno
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4620
+#EXTINF: group-title="Shqiptare Mix" , IT: TVRS
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4621
+#EXTINF: group-title="Shqiptare Mix" , IT: RMM TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4622
+#EXTINF: group-title="Shqiptare Mix" , IT: TV2000 qHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4623
+#EXTINF: group-title="Shqiptare Mix" , IT: Telepavia
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4636
+#EXTINF: group-title="Shqiptare Mix" , IT: Canale10
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4637
+#EXTINF: group-title="Shqiptare Mix" , IT: TeleMonteNeve
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4641
+#EXTINF: group-title="Shqiptare Mix" , IT: TeleMIa (Calabria)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4643
+#EXTINF: group-title="Shqiptare Mix" , IT: Video Brescia
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4645
+#EXTINF: group-title="Shqiptare Mix" , IT: Super TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4728
+#EXTINF: group-title="Shqiptare Mix" , IT: Fashion TV FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4867
+#EXTINF: group-title="Shqiptare Mix" , IT: Televaldarno RTV38
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8841
+#EXTINF: group-title="Shqiptare Mix" , IT: Umbria TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8842
+#EXTINF: group-title="Shqiptare Mix" , IT: Caffe Tv 24
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8844
+#EXTINF: group-title="Shqiptare Mix" , IT: TeleMonteNeve3
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8847
+#EXTINF: group-title="Shqiptare Mix" , IT: TeleStar1
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8850
+#EXTINF: group-title="Shqiptare Mix" , IT: Telecentro 2
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8854
+#EXTINF: group-title="Shqiptare Mix" , IT: Teleliguria Sud
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9543
+#EXTINF: group-title="Shqiptare Mix" , IT: Granducato TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9646
+#EXTINF: group-title="Shqiptare Mix" , IT: Radio Tv Azzura
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9651
+#EXTINF: group-title="Shqiptare Mix" , IT: GOLD TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25348
+#EXTINF: group-title="Shqiptare Mix" , IT: LAZIO TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25349
+#EXTINF: group-title="Shqiptare Mix" , IT: Antenna Sicilia HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25405
+#EXTINF: group-title="Shqiptare Mix" , IT: Napoli Canale 21 TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25406
+#EXTINF: group-title="Shqiptare Mix" , IT: Telecolor Sicilia
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25696
+#EXTINF: group-title="Shqiptare Mix" , IT: Motor Trend SD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26058
+#EXTINF: group-title="Shqiptare Mix" , ^IT Italia 1 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26520
+#EXTINF: group-title="Shqiptare Mix" , ^IT NOVE HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26523
+#EXTINF: group-title="Shqiptare Mix" , ^IT Mediaset Extra
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26526
+#EXTINF: group-title="Shqiptare Mix" , ^IT La 5
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26529
+#EXTINF: group-title="Shqiptare Mix" , ^IT NOVE FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26550
+#EXTINF: group-title="Shqiptare Mix" , *IT: Eagle Peter Griffin 24H
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/27071
+#EXTINF: group-title="Shqiptare Mix" , *IT: Eagle American Dad 24H
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/27072
+#EXTINF: group-title="Shqiptare Mix" , *IT: Eagle Brickleberry FHD 24H
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/27073
+#EXTINF: group-title="Shqiptare Mix" , *IT: Eagle Cinema Animazione FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22336
+#EXTINF: group-title="Shqiptare Mix" , *IT: Eagle Cinema Avventura FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/21153
+#EXTINF: group-title="Shqiptare Mix" , *IT: Eagle Cinema Azione FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/21154
+#EXTINF: group-title="Shqiptare Mix" , *IT: Eagle Cinema Bud Spencer HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25736
+#EXTINF: group-title="Shqiptare Mix" , *IT: Eagle Cinema Comico Cult FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/21149
+#EXTINF: group-title="Shqiptare Mix" , *IT: Eagle Cinema Drammatico FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/21145
+#EXTINF: group-title="Shqiptare Mix" , *IT: Eagle Cinema Prima Visione FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/21155
+#EXTINF: group-title="Shqiptare Mix" , *IT: Eagle Cinema Sorriso FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/21150
+#EXTINF: group-title="Shqiptare Mix" , *IT: Eagle Cinema Spaghetti Western FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25729
+#EXTINF: group-title="Shqiptare Mix" , *IT: Eagle Cinema Storico FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/21147
+#EXTINF: group-title="Shqiptare Mix" , *IT: Eagle Cinema Thriller FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/21148
+#EXTINF: group-title="Shqiptare Mix" , *IT: Eagle Cinema Western FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25728
+#EXTINF: group-title="Shqiptare Mix" , *IT: Eagle Disney Topolino Paperino e Pippo HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22689
+#EXTINF: group-title="Shqiptare Mix" , *IT: Eagle Fiabe Magiche HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22652
+#EXTINF: group-title="Shqiptare Mix" , *IT: Eagle Super Pigiamini FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22996
+#EXTINF: group-title="Shqiptare Mix" , IT: Vetrina Sky Primafila HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7119
+#EXTINF: group-title="Shqiptare Mix" , IT: SKY PRIMAFILA 2 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7117
+#EXTINF: group-title="Shqiptare Mix" , IT: SKY PRIMAFILA 7 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7112
+#EXTINF: group-title="Shqiptare Mix" , IT: SKY PRIMAFILA 11 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8258
+#EXTINF: group-title="Shqiptare Mix" , IT: SKY PRIMAFILA 12 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8256
+#EXTINF: group-title="Shqiptare Mix" , IT: SKY PRIMAFILA 13 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25322
+#EXTINF: group-title="Shqiptare Mix" , IT: SKY PRIMAFILA 14 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25323
+#EXTINF: group-title="Shqiptare Mix" , IT: SKY PRIMAFILA 16 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25325
+#EXTINF: group-title="Shqiptare Mix" , IT: SKY PRIMAFILA 17 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25326
+#EXTINF: group-title="Shqiptare Mix" , IT: SKY PRIMAFILA 18 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/31016
+#EXTINF: group-title="Shqiptare Mix" , IT: SKY PRIMAFILA 3D
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/20229
+#EXTINF: group-title="Shqiptare Mix" , IT: Vetrina Sky Primafila4K HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/31015
+#EXTINF: group-title="Shqiptare Mix" , IT: SKY PRIMAFILA 1 4K
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25439
+#EXTINF: group-title="Shqiptare Mix" , IT: SKY PRIMAFILA 2 4K
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25475
+#EXTINF: group-title="Shqiptare Mix" , IT: SKY PRIMAFILA 4 4K
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25477
+#EXTINF: group-title="Shqiptare Mix" , IT: SKY PRIMAFILA 5 4K
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25478
+#EXTINF: group-title="Shqiptare Mix" , IT: SKY PRIMAFILA 6 4K
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25479
+#EXTINF: group-title="Shqiptare Mix" , IT: SKY PRIMAFILA 8 4K
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25888
+#EXTINF: group-title="Shqiptare Mix" , IT: SKY PRIMAFILA MULTIVISION 2 4K
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25891
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY CINEMA DUE +24 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26579
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY Cinema Comedy FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26581
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY Cinema Collection FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26582
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY Cinema Action FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26585
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY Cinema Drama FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26586
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY Cinema Drama HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26599
+#EXTINF: group-title="Shqiptare Mix" , ^IT Premium Cinema +24 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26613
+#EXTINF: group-title="Shqiptare Mix" , ^IT Premium Comedy FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26615
+#EXTINF: group-title="Shqiptare Mix" , ^IT Premium Comedy HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26616
+#EXTINF: group-title="Shqiptare Mix" , ^IT Premium Emotion FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26617
+#EXTINF: group-title="Shqiptare Mix" , ^IT Premium Emotion HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26618
+#EXTINF: group-title="Shqiptare Mix" , ^IT Premium Energy FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26619
+#EXTINF: group-title="Shqiptare Mix" , ^IT Premium Energy HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26620
+#EXTINF: group-title="Shqiptare Mix" , ^IT Comedy Central
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26647
+#EXTINF: group-title="Shqiptare Mix" , ^IT Classica HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26648
+#EXTINF: group-title="Shqiptare Mix" , ^IT PESCA HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26683
+#EXTINF: group-title="Shqiptare Mix" , ^IT MARCOPOLO HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26736
+#EXTINF: group-title="Shqiptare Mix" , ^IT National Geographic FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26737
+#EXTINF: group-title="Shqiptare Mix" , ^IT DMAX HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26742
+#EXTINF: group-title="Shqiptare Mix" , ^IT BLAZE FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26745
+#EXTINF: group-title="Shqiptare Mix" , ^IT Rai yoyo FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26749
+#EXTINF: group-title="Shqiptare Mix" , ^IT BOING PLUS
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26750
+#EXTINF: group-title="Shqiptare Mix" , ^IT Baby TV FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26764
+#EXTINF: group-title="Shqiptare Mix" , ^IT Boing HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26763
+#EXTINF: group-title="Shqiptare Mix" , ^IT BOOMERANG FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26762
+#EXTINF: group-title="Shqiptare Mix" , ^IT DEA KIDS HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26760
+#EXTINF: group-title="Shqiptare Mix" , ^IT DISNEY JUNIOR
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26759
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY SPORT FOOTBALL H265
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26559
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY SPORT ARENA H265
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26561
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY CINEMA UNO H265
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26563
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY CINEMA SUSPENCE H265
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26564
+#EXTINF: group-title="Shqiptare Mix" , ^IT SKY CALCIO 1 H265
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26565
+#EXTINF: group-title="Shqiptare Mix" , *IT: Eagle MARVEL FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30982
+#EXTINF: group-title="Shqiptare Mix" , *IT: Il Trono di Spade stagione 1 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30990
+#EXTINF: group-title="Shqiptare Mix" , *IT: Il Trono di Spade stagione 2 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30989
+#EXTINF: group-title="Shqiptare Mix" , *IT: Il Trono di Spade stagione 3 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30988
+#EXTINF: group-title="Shqiptare Mix" , *IT: Il Trono di Spade stagione 4 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30987
+#EXTINF: group-title="Shqiptare Mix" , *IT: Il Trono di Spade stagione 5 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30986
+#EXTINF: group-title="Shqiptare Mix" , *IT: Il Trono di Spade stagione 6 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30985
+#EXTINF: group-title="Shqiptare Mix" , *IT: Twilight Channel FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30991
+#EXTINF: group-title="Shqiptare Mix" , *IT: Transformers Channel FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30992
+#EXTINF: group-title="Shqiptare Mix" , *IT: The Bourne Channel FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30993
+#EXTINF: group-title="Shqiptare Mix" , *IT: Mission impossible Channel FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30999
+#EXTINF: group-title="Shqiptare Mix" , *IT: Men in Black Channel FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/31000
+#EXTINF: group-title="Shqiptare Mix" , *IT: Kung Fu Panda Channel FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/31001
+#EXTINF: group-title="Shqiptare Mix" , *IT: Karate Kid Channel FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/31002
+#EXTINF: group-title="Shqiptare Mix" , *IT: IP MAN Channel FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/31003
+#EXTINF: group-title="Shqiptare Mix" , *IT: Indiana Jones Channel FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/31004
+#EXTINF: group-title="Shqiptare Mix" , *IT: IL Signore Degli Anelli Channel FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/31005
+#EXTINF: group-title="Shqiptare Mix" , *IT: Il Re Scorpione Channel FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/31006
+#EXTINF: group-title="Shqiptare Mix" , *IT:Harry Potter Channel FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/31008
+#EXTINF: group-title="Shqiptare Mix" , *IT: G.I.JOE Channel FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/31009
+#EXTINF: group-title="Shqiptare Mix" , *IT: Avengers Grimm Channel FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/31010
+#EXTINF: group-title="Shqiptare Mix" , USA: GRIT TV MOVIES
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2383
+#EXTINF: group-title="Shqiptare Mix" , USA: Starz Edge HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2384
+#EXTINF: group-title="Shqiptare Mix" , USA: Starz East
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2385
+#EXTINF: group-title="Shqiptare Mix" , USA: Starz Comedy
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2386
+#EXTINF: group-title="Shqiptare Mix" , USA: Starz Cinema
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2387
+#EXTINF: group-title="Shqiptare Mix" , USA: Showtime 2 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2389
+#EXTINF: group-title="Shqiptare Mix" , USA: Big Ten Network HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2411
+#EXTINF: group-title="Shqiptare Mix" , USA: AFN Prime Pacific
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2416
+#EXTINF: group-title="Shqiptare Mix" , USA: ABC News HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2422
+#EXTINF: group-title="Shqiptare Mix" , USA: NBC (EAST)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2440
+#EXTINF: group-title="Shqiptare Mix" , USA: HBO HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2447
+#EXTINF: group-title="Shqiptare Mix" , USA: Fight BOX
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2453
+#EXTINF: group-title="Shqiptare Mix" , USA: CNN
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2454
+#EXTINF: group-title="Shqiptare Mix" , USA: ABC News  HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2462
+#EXTINF: group-title="Shqiptare Mix" , USA: ABC HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2463
+#EXTINF: group-title="Shqiptare Mix" , USA: T.N.T
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4139
+#EXTINF: group-title="Shqiptare Mix" , USA: ESPN
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4140
+#EXTINF: group-title="Shqiptare Mix" , USA: CBS News
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4141
+#EXTINF: group-title="Shqiptare Mix" , USA: TBS
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4143
+#EXTINF: group-title="Shqiptare Mix" , USA: NAT GEO HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4144
+#EXTINF: group-title="Shqiptare Mix" , USA: ANIMAL PLANET
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4227
+#EXTINF: group-title="Shqiptare Mix" , USA: TRAVEL CHANNEL
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4230
+#EXTINF: group-title="Shqiptare Mix" , USA: FOX NY
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4286
+#EXTINF: group-title="Shqiptare Mix" , USA: ESPN 2 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4290
+#EXTINF: group-title="Shqiptare Mix" , USA: CW 11 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4291
+#EXTINF: group-title="Shqiptare Mix" , USA: The Weather Channel
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4695
+#EXTINF: group-title="Shqiptare Mix" , USA: TRUE MOVIES
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4722
+#EXTINF: group-title="Shqiptare Mix" , USA: NHL NETWORK
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4723
+#EXTINF: group-title="Shqiptare Mix" , USA: TRU TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/5147
+#EXTINF: group-title="Shqiptare Mix" , USA: OWN HD (Oprah Winfrey TV)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/5151
+#EXTINF: group-title="Shqiptare Mix" , USA: Cinemax 5 Max
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/5164
+#EXTINF: group-title="Shqiptare Mix" , VIP:|USA: * NBA TV LEAGUE PASS LIVE DURING GAMES ONLY *
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8441
+#EXTINF: group-title="Shqiptare Mix" , ====== USA: EMPIRE CINEMA ======
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30233
+#EXTINF: group-title="Shqiptare Mix" , *USA: EMPIRE CINEMA 4K
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30234
+#EXTINF: group-title="Shqiptare Mix" , *USA: EMPIRE CINEMA 007 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30235
+#EXTINF: group-title="Shqiptare Mix" , *USA: EMPIRE CINEMA WESTERN FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30236
+#EXTINF: group-title="Shqiptare Mix" , *USA: EMPIRE CINEMA COMICULT FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30247
+#EXTINF: group-title="Shqiptare Mix" , *USA: EMPIRE CINEMA BIOGRAPHY FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30253
+#EXTINF: group-title="Shqiptare Mix" , *USA: EMPIRE CINEMA FAMILY FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30254
+#EXTINF: group-title="Shqiptare Mix" , US: CBS NEWS
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/27838
+#EXTINF: group-title="Shqiptare Mix" , US: CBS Orlando
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/27839
+#EXTINF: group-title="Shqiptare Mix" , US: CBS Phoenix
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/27842
+#EXTINF: group-title="Shqiptare Mix" , US: CBSN News
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/27858
+#EXTINF: group-title="Shqiptare Mix" , US: CNBC HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/27876
+#EXTINF: group-title="Shqiptare Mix" , US: CW US HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/27895
+#EXTINF: group-title="Shqiptare Mix" , US: Disney Channel EAST
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/27911
+#EXTINF: group-title="Shqiptare Mix" , US: ELEVEN SPORTS Network
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/27931
+#EXTINF: group-title="Shqiptare Mix" , US: ESPN News HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/27955
+#EXTINF: group-title="Shqiptare Mix" , US: ESPN plus
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/27957
+#EXTINF: group-title="Shqiptare Mix" , US: Food Network HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/27970
+#EXTINF: group-title="Shqiptare Mix" , US: Fox Collage Sports Pacific
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/27987
+#EXTINF: group-title="Shqiptare Mix" , US: FOX SPORTS Oklahoma
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28065
+#EXTINF: group-title="Shqiptare Mix" , US: Z Classic
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28431
+#EXTINF: group-title="Shqiptare Mix" , US: Pj Masks Live
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28751
+#EXTINF: group-title="Shqiptare Mix" , CA: Cottage Life
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4068
+#EXTINF: group-title="Shqiptare Mix" , CA: City TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4070
+#EXTINF: group-title="Shqiptare Mix" , CA: CBC Toronto
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4072
+#EXTINF: group-title="Shqiptare Mix" , CA: MTV | HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28553
+#EXTINF: group-title="Shqiptare Mix" , CA: SPORTSNET ONE | HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28581
+#EXTINF: group-title="Shqiptare Mix" , CA: A&E | HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28432
+#EXTINF: group-title="Shqiptare Mix" , CA: ABC SPARK |HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28433
+#EXTINF: group-title="Shqiptare Mix" , CA: ABC | HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28434
+#EXTINF: group-title="Shqiptare Mix" , CA: BBC Canada | SD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28440
+#EXTINF: group-title="Shqiptare Mix" , CA: CARTOON NETWORK  |  SD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28448
+#EXTINF: group-title="Shqiptare Mix" , CA: CBC3 | HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28462
+#EXTINF: group-title="Shqiptare Mix" , CA: Disney Junior | HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28506
+#EXTINF: group-title="Shqiptare Mix" , CA: HLN | HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28538
+#EXTINF: group-title="Shqiptare Mix" , CA: NAT GEO WILD |HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28556
+#EXTINF: group-title="Shqiptare Mix" , CA: PEACHTREE | HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28570
+#EXTINF: group-title="Shqiptare Mix" , CA: SUPER SPORTS CH 439*
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28604
+#EXTINF: group-title="Shqiptare Mix" , CA: SUPER SPORTS CH 462
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28618
+#EXTINF: group-title="Shqiptare Mix" , CA: SUPER SPORTS CH 472*
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28622
+#EXTINF: group-title="Shqiptare Mix" , CA: SUPER SPORTS CH 473
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28623
+#EXTINF: group-title="Shqiptare Mix" , CA: SUPER SPORTS CH 479
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28632
+#EXTINF: group-title="Shqiptare Mix" , GR: SKAI HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4594
+#EXTINF: group-title="Shqiptare Mix" , GR: Nova Premiere STARZ FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22690
+#EXTINF: group-title="Shqiptare Mix" , GR: Nova Premiere Comedy FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22692
+#EXTINF: group-title="Shqiptare Mix" , GR: Nova Premiere History FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22963
+#EXTINF: group-title="Shqiptare Mix" , GR: Nova Premiere 1 4K
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25491
+#EXTINF: group-title="Shqiptare Mix" , GR: Nova Premiere 7 4K
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25497
+#EXTINF: group-title="Shqiptare Mix" , GR: ERT SPORTS WORLDWIDE
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25415
+#EXTINF: group-title="Shqiptare Mix" , GR: Start TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2313
+#EXTINF: group-title="Shqiptare Mix" , A Christmas Prince_ The Royal Baby (2019)
+http://ksportiptv.com:1557/movie/selveri/STwM6dEWmO/31432.mp4
+#EXTINF: group-title="Shqiptare Mix" , Ad Astra - 2019
+http://ksportiptv.com:1557/movie/selveri/STwM6dEWmO/31433.mp4
+#EXTINF: group-title="Shqiptare Mix" , Apparition - 2019
+http://ksportiptv.com:1557/movie/selveri/STwM6dEWmO/31435.mp4
+#EXTINF: group-title="Shqiptare Mix" , Ford v Ferrari - 2019
+http://ksportiptv.com:1557/movie/selveri/STwM6dEWmO/31449.mp4
+#EXTINF: group-title="Shqiptare Mix" , Good Boys - 2019
+http://ksportiptv.com:1557/movie/selveri/STwM6dEWmO/31453.mp4
+#EXTINF: group-title="Shqiptare Mix" , Grand Isle - 2019
+http://ksportiptv.com:1557/movie/selveri/STwM6dEWmO/31454.mp4
+#EXTINF: group-title="Shqiptare Mix" , Jumanji: The Next Level - 2019
+http://ksportiptv.com:1557/movie/selveri/STwM6dEWmO/31467.mp4
+#EXTINF: group-title="Shqiptare Mix" , The Aeronauts - 2019
+http://ksportiptv.com:1557/movie/selveri/STwM6dEWmO/31480.mp4
+#EXTINF: group-title="Shqiptare Mix" , The Lighthouse - 2019
+http://ksportiptv.com:1557/movie/selveri/STwM6dEWmO/31491.mp4
+#EXTINF: group-title="Shqiptare Mix" , ^GR NOVA SPORT 4 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22755
+#EXTINF: group-title="Shqiptare Mix" , ^GR NOVA SPORT 5 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22754
+#EXTINF: group-title="Shqiptare Mix" , ^GR Cosmote Cinema 2 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22824
+#EXTINF: group-title="Shqiptare Mix" , ^GR Village Cinema HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22810
+#EXTINF: group-title="Shqiptare Mix" , MK: Alfa
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/859
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: BN
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1606
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: ZADRUGA 3
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29138
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: RTS 2
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1050
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: Prva MAX
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/21252
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: PRVA Plus
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1634
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: Prva TV Montenegro
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/21014
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: ALFA TV BH
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22656
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: AMC
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/21683
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: ANIMAL PLANET
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2903
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: Crime & Investigation
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2910
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: HBO 3
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2881
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: M1 Gold
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/23649
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: NASA TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25447
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: NAT GEO WILD HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22919
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: Pink Classic
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/14326
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: Pink Horror
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1012
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: Pink Kids
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2919
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: Pink Sci-Fi&Fantasy
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2895
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: Pink World
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2914
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: Pink World Cinema
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/14327
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: Planet Tv
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9306
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: TV 1000
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2876
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: TV Hram
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2770
+#EXTINF: group-title="Shqiptare Mix" , CRO: RTL 2
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1636
+#EXTINF: group-title="Shqiptare Mix" , CRO: CROMAX Select 3 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22015
+#EXTINF: group-title="Shqiptare Mix" , CRO: DOKU TV ADRIA
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22170
+#EXTINF: group-title="Shqiptare Mix" , CRO: Travel Channel Adria
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22169
+#EXTINF: group-title="Shqiptare Mix" , CRO: CBS Reality Adria
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22168
+#EXTINF: group-title="Shqiptare Mix" , CRO: PICKBOX 1
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22165
+#EXTINF: group-title="Shqiptare Mix" , UK: BBC 4 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1745
+#EXTINF: group-title="Shqiptare Mix" , UK: ITV 2 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1266
+#EXTINF: group-title="Shqiptare Mix" , UK: RTE NEWS
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9716
+#EXTINF: group-title="Shqiptare Mix" , UK: RTE Junior
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3760
+#EXTINF: group-title="Shqiptare Mix" , UK: BoomeRang
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/891
+#EXTINF: group-title="Shqiptare Mix" , UK: BBC alba HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/878
+#EXTINF: group-title="Shqiptare Mix" , UK: Nick Jr
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1672
+#EXTINF: group-title="Shqiptare Mix" , UK: BBC entertainment HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1783
+#EXTINF: group-title="Shqiptare Mix" , UK: Discovery
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1818
+#EXTINF: group-title="Shqiptare Mix" , UK: Cartoon Network
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2378
+#EXTINF: group-title="Shqiptare Mix" , UK: Al Jazeera English FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2787
+#EXTINF: group-title="Shqiptare Mix" , UK: Nick Jr Peppa
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3751
+#EXTINF: group-title="Shqiptare Mix" , UK: Russia Today Documetary
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8863
+#EXTINF: group-title="Shqiptare Mix" , UK: Russia Today News
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8949
+#EXTINF: group-title="Shqiptare Mix" , UK: Sky Witness
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9802
+#EXTINF: group-title="Shqiptare Mix" , UK: Cartoonito
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13552
+#EXTINF: group-title="Shqiptare Mix" , UK: TLC-IRELAND
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1746
+#EXTINF: group-title="Shqiptare Mix" , FR: France 2 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/949
+#EXTINF: group-title="Shqiptare Mix" , FR: France 3 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/950
+#EXTINF: group-title="Shqiptare Mix" , FR: France 4 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/951
+#EXTINF: group-title="Shqiptare Mix" , FR: France 5 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/952
+#EXTINF: group-title="Shqiptare Mix" , FR: France O
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2163
+#EXTINF: group-title="Shqiptare Mix" , FR: 6TER HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9746
+#EXTINF: group-title="Shqiptare Mix" , FR: Paris Premiere HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2718
+#EXTINF: group-title="Shqiptare Mix" , FR: PARIS PREMIERE
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11118
+#EXTINF: group-title="Shqiptare Mix" , FR: HD1
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3027
+#EXTINF: group-title="Shqiptare Mix" , FR: VIA MIRABELLE TV HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25765
+#EXTINF: group-title="Shqiptare Mix" , FR: Disney Cinema HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1285
+#EXTINF: group-title="Shqiptare Mix" , FR: Piwi +
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1289
+#EXTINF: group-title="Shqiptare Mix" , FR: MTV HITS HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/10718
+#EXTINF: group-title="Shqiptare Mix" , FR: Francophonie 24
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25780
+#EXTINF: group-title="Shqiptare Mix" , FR: CANALPLAY 7 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/21501
+#EXTINF: group-title="Shqiptare Mix" , FR: CANALPLAY 8 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/21502
+#EXTINF: group-title="Shqiptare Mix" , FR: beIN SPORTS 6 MAX
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7472
+#EXTINF: group-title="Shqiptare Mix" , ^FR: RMC SPORT NEWS FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25826
+#EXTINF: group-title="Shqiptare Mix" , ^FR: RMC SPORT access 1 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25825
+#EXTINF: group-title="Shqiptare Mix" , ^FR: RMC SPORT 6
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25817
+#EXTINF: group-title="Shqiptare Mix" , FR: RMC SPORT 12
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3720
+#EXTINF: group-title="Shqiptare Mix" , FR: RMC SPORT 13
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4067
+#EXTINF: group-title="Shqiptare Mix" , ^FR: RMC STORY FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25865
+#EXTINF: group-title="Shqiptare Mix" , ^FR: BEIN SPORTS 1 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25803
+#EXTINF: group-title="Shqiptare Mix" , ^FR: BEIN MAX 5 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25799
+#EXTINF: group-title="Shqiptare Mix" , ^FR: COMEDY CENTRAL FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25827
+#EXTINF: group-title="Shqiptare Mix" , ^FR: ACTION FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25841
+#EXTINF: group-title="Shqiptare Mix" , ^FR: OCS CITY FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25850
+#EXTINF: group-title="Shqiptare Mix" , ^FR: CANAL+ SERIES FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25859
+#EXTINF: group-title="Shqiptare Mix" , ^FR: 6TER FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25873
+#EXTINF: group-title="Shqiptare Mix" , ^FR: M6 Clips FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25875
+#EXTINF: group-title="Shqiptare Mix" , ^FR: RFM FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26410
+#EXTINF: group-title="Shqiptare Mix" , ^FR: Discovery Family HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26412
+#EXTINF: group-title="Shqiptare Mix" , ^FR: Warner Bros FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26413
+#EXTINF: group-title="Shqiptare Mix" , SE: SVT1
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2697
+#EXTINF: group-title="Shqiptare Mix" , SE: SVT2
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1991
+#EXTINF: group-title="Shqiptare Mix" , SE: TV6
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1998
+#EXTINF: group-title="Shqiptare Mix" , SE:TV Sjuan
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4468
+#EXTINF: group-title="Shqiptare Mix" , SE: TV8
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1997
+#EXTINF: group-title="Shqiptare Mix" , SE: Kanal 9 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4923
+#EXTINF: group-title="Shqiptare Mix" , SE: Kanal 10 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/20157
+#EXTINF: group-title="Shqiptare Mix" , SE: TV10
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1990
+#EXTINF: group-title="Shqiptare Mix" , SE: KANAL 11
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3339
+#EXTINF: group-title="Shqiptare Mix" , SE: Viasat Film Premiere
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2276
+#EXTINF: group-title="Shqiptare Mix" , SE: Viasat Film Hits
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2277
+#EXTINF: group-title="Shqiptare Mix" , SE: C More First
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2334
+#EXTINF: group-title="Shqiptare Mix" , SE: C More Hits
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2552
+#EXTINF: group-title="Shqiptare Mix" , SE:  FOX
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2730
+#EXTINF: group-title="Shqiptare Mix" , SE: C More Fotboll
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2640
+#EXTINF: group-title="Shqiptare Mix" , SE: Nick Jr
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4836
+#EXTINF: group-title="Shqiptare Mix" , SE: Boomerang
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11469
+#EXTINF: group-title="Shqiptare Mix" , SE: Viasat History
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8400
+#EXTINF: group-title="Shqiptare Mix" , SE: Investigation Discovery SE
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9808
+#EXTINF: group-title="Shqiptare Mix" , SE: Viasat Fotboll
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11426
+#EXTINF: group-title="Shqiptare Mix" , SE: C More Live 3 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9804
+#EXTINF: group-title="Shqiptare Mix" , SE: C More Live 4 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9805
+#EXTINF: group-title="Shqiptare Mix" , DK: DR 1 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3330
+#EXTINF: group-title="Shqiptare Mix" , DK: DR1
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2292
+#EXTINF: group-title="Shqiptare Mix" , DK: DR2 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/12501
+#EXTINF: group-title="Shqiptare Mix" , DK TV2 Bornholm
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/6071
+#EXTINF: group-title="Shqiptare Mix" , DK: TV2 ØSTJYLLAND
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28787
+#EXTINF: group-title="Shqiptare Mix" , DK: TV2 FYN
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28799
+#EXTINF: group-title="Shqiptare Mix" , DK: TV3 SPORT 1
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3310
+#EXTINF: group-title="Shqiptare Mix" , DK: TV3 Puls
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3290
+#EXTINF: group-title="Shqiptare Mix" , DK: DK4
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28775
+#EXTINF: group-title="Shqiptare Mix" , DK: XEE HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28750
+#EXTINF: group-title="Shqiptare Mix" , DK: 6 Eren
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2666
+#EXTINF: group-title="Shqiptare Mix" , DK: 6 eren HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3316
+#EXTINF: group-title="Shqiptare Mix" , DK: MOVIE TIME PREMIERA
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28868
+#EXTINF: group-title="Shqiptare Mix" , DK: Movie Time  1 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28866
+#EXTINF: group-title="Shqiptare Mix" , DK: Movie Time  2 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28864
+#EXTINF: group-title="Shqiptare Mix" , DK: Danske Klassikker 2
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28855
+#EXTINF: group-title="Shqiptare Mix" , DK: Disney Channel
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3331
+#EXTINF: group-title="Shqiptare Mix" , DK: Disney XD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2647
+#EXTINF: group-title="Shqiptare Mix" , DK: TOMY AND JERRY
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28867
+#EXTINF: group-title="Shqiptare Mix" , DK: Eurosport 1
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8866
+#EXTINF: group-title="Shqiptare Mix" , DK: Viasat Hockey
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2693
+#EXTINF: group-title="Shqiptare Mix" , DK: VIASAT EXPLORER
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3308
+#EXTINF: group-title="Shqiptare Mix" , DK: Discovery Channel HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3332
+#EXTINF: group-title="Shqiptare Mix" , DK: DISCOVERY SCIENCE
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28869
+#EXTINF: group-title="Shqiptare Mix" , DK: Discovery World
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11185
+#EXTINF: group-title="Shqiptare Mix" , DK: HISTORY
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28784
+#EXTINF: group-title="Shqiptare Mix" , DK: MTV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7332
+#EXTINF: group-title="Shqiptare Mix" , BE: BE Cinema
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2083
+#EXTINF: group-title="Shqiptare Mix" , BE: EEN
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2084
+#EXTINF: group-title="Shqiptare Mix" , BE: CAZ TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2086
+#EXTINF: group-title="Shqiptare Mix" , BE: TVO
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2087
+#EXTINF: group-title="Shqiptare Mix" , BE: Q2
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2088
+#EXTINF: group-title="Shqiptare Mix" , BE: TV LUX
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2089
+#EXTINF: group-title="Shqiptare Mix" , BE: RTL TVI
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2090
+#EXTINF: group-title="Shqiptare Mix" , BE: La Deux
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2094
+#EXTINF: group-title="Shqiptare Mix" , BE: Cinema 1
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4760
+#EXTINF: group-title="Shqiptare Mix" , BE: Cinema 2
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4761
+#EXTINF: group-title="Shqiptare Mix" , BE: Cinema Kids
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4762
+#EXTINF: group-title="Shqiptare Mix" , BE: Nat Geo HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4770
+#EXTINF: group-title="Shqiptare Mix" , BE: Ketop12
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4771
+#EXTINF: group-title="Shqiptare Mix" , BE: VOO SPORTS/FOOT
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4931
+#EXTINF: group-title="Shqiptare Mix" , BE: VITAYA
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29175
+#EXTINF: group-title="Shqiptare Mix" , BE: VICE
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29177
+#EXTINF: group-title="Shqiptare Mix" , BE: VEDIA
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29178
+#EXTINF: group-title="Shqiptare Mix" , NL: HBO HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1947
+#EXTINF: group-title="Shqiptare Mix" , NL: RTL4 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1963
+#EXTINF: group-title="Shqiptare Mix" , NL: FOX
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29213
+#EXTINF: group-title="Shqiptare Mix" , NL: ID
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29215
+#EXTINF: group-title="Shqiptare Mix" , CH: Acht
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11472
+#EXTINF: group-title="Shqiptare Mix" , ES: ANTENA 3 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29250
+#EXTINF: group-title="Shqiptare Mix" , ES: AXN WHITE FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29259
+#EXTINF: group-title="Shqiptare Mix" , ES: Cosmo FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3688
+#EXTINF: group-title="Shqiptare Mix" , ES: Moviestar Portada
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4631
+#EXTINF: group-title="Shqiptare Mix" , ES: TCM HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26007
+#EXTINF: group-title="Shqiptare Mix" , PL: Canal  Film HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13040
+#EXTINF: group-title="Shqiptare Mix" , PL: Disney Channel HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13062
+#EXTINF: group-title="Shqiptare Mix" , PL: Discovery HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13039
+#EXTINF: group-title="Shqiptare Mix" , PL: FilmBox Action
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13058
+#EXTINF: group-title="Shqiptare Mix" , PL: Fokus TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13024
+#EXTINF: group-title="Shqiptare Mix" , PL: HBO 2 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3075
+#EXTINF: group-title="Shqiptare Mix" , PL: Comedy Central
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29392
+#EXTINF: group-title="Shqiptare Mix" , PL: PULS 2
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29410
+#EXTINF: group-title="Shqiptare Mix" , FIN: YLE TV 1
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/6270
+#EXTINF: group-title="Shqiptare Mix" , FIN: mtv3
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/6274
+#EXTINF: group-title="Shqiptare Mix" , FIN: TV7
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8880
+#EXTINF: group-title="Shqiptare Mix" , FIN: Discovery Channel
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9743
+#EXTINF: group-title="Shqiptare Mix" , FIN: JIM
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9744
+#EXTINF: group-title="Shqiptare Mix" , MT: Smash CAM FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/23364
+#EXTINF: group-title="Shqiptare Mix" , MT: Smash Entertainment  FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8114
+#EXTINF: group-title="Shqiptare Mix" , MT: Smash Food FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8118
+#EXTINF: group-title="Shqiptare Mix" , HU: FilmBox Premium
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8532
+#EXTINF: group-title="Shqiptare Mix" , HU: M4
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26008
+#EXTINF: group-title="Shqiptare Mix" , RO: TVR Moldova
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25612
+#EXTINF: group-title="Shqiptare Mix" , RO: ProTV Chisinau
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26038
+#EXTINF: group-title="Shqiptare Mix" , RO: EPIC DRAMA
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29823
+#EXTINF: group-title="Shqiptare Mix" , RO: AXN HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29832
+#EXTINF: group-title="Shqiptare Mix" , RO: ATV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25616
+#EXTINF: group-title="Shqiptare Mix" , RO: Credo TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25624
+#EXTINF: group-title="Shqiptare Mix" , RO: Look Plus
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/20302
+#EXTINF: group-title="Shqiptare Mix" , RO: DIGI Sport 1 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1658
+#EXTINF: group-title="Shqiptare Mix" , RO: DIGI Sport 2 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1659
+#EXTINF: group-title="Shqiptare Mix" , RO: History Channel
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/5416
+#EXTINF: group-title="Shqiptare Mix" , RO: ID HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29808
+#EXTINF: group-title="Shqiptare Mix" , RO: Viasat History
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/5425
+#EXTINF: group-title="Shqiptare Mix" , RO: Viasat Nature
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/5426
+#EXTINF: group-title="Shqiptare Mix" , RO: VIASAT EXPLORER
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29812
+#EXTINF: group-title="Shqiptare Mix" , RO: DIVA
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29806
+#EXTINF: group-title="Shqiptare Mix" , RO: TELESTAR1
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29785
+#EXTINF: group-title="Shqiptare Mix" , RO: BIT TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29800
+#EXTINF: group-title="Shqiptare Mix" , SL: CINESTAR PREMIER 2
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29845
+#EXTINF: group-title="Shqiptare Mix" , SK: Markiza TV HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/25407
+#EXTINF: group-title="Shqiptare Mix" , SK: TV RIK qHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26160
+#EXTINF: group-title="Shqiptare Mix" , SK: Discovery Channel
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26173
+#EXTINF: group-title="Shqiptare Mix" , SK: ZSTV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26183
+#EXTINF: group-title="Shqiptare Mix" , ==== Baltic =====
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/12609
+#EXTINF: group-title="Shqiptare Mix" , TR: TRT 1 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1215
+#EXTINF: group-title="Shqiptare Mix" , TR: TRT 1 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1390
+#EXTINF: group-title="Shqiptare Mix" , TR: TRT 4K UHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26414
+#EXTINF: group-title="Shqiptare Mix" , TR: FOX FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1241
+#EXTINF: group-title="Shqiptare Mix" , TR: TV 8 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1709
+#EXTINF: group-title="Shqiptare Mix" , TR: Disney JR
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3699
+#EXTINF: group-title="Shqiptare Mix" , TR: Akilli Tv (Ammazing Videos)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/12031
+#EXTINF: group-title="Shqiptare Mix" , TR: TRT AVAZ HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1224
+#EXTINF: group-title="Shqiptare Mix" , TR: BeiN Movies Action HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3371
+#EXTINF: group-title="Shqiptare Mix" , TR: LOCA3
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1369
+#EXTINF: group-title="Shqiptare Mix" , TR: NEXTBOX  CINEMA PREMIER
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29065
+#EXTINF: group-title="Shqiptare Mix" , TR: NEXTBOX SUBTITLE
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29076
+#EXTINF: group-title="Shqiptare Mix" , TR: beIN SPORTS 1 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30176
+#EXTINF: group-title="Shqiptare Mix" , TR: beIN SPORTS 2 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30178
+#EXTINF: group-title="Shqiptare Mix" , TR: beIN SPORTS 3 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30180
+#EXTINF: group-title="Shqiptare Mix" , TR: beIN SPORTS 4 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30181
+#EXTINF: group-title="Shqiptare Mix" , TR: beIN SPORTS MAX 1 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/30183
+#EXTINF: group-title="Shqiptare Mix" , RU: AMEDIA 1
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/6640
+#EXTINF: group-title="Shqiptare Mix" , RU: AMEDIA 2
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/6931
+#EXTINF: group-title="Shqiptare Mix" , RU: Akudji HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/6861
+#EXTINF: group-title="Shqiptare Mix" , RU: Animal Planet FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/6918
+#EXTINF: group-title="Shqiptare Mix" , RU: Brodilo HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/6849
+#EXTINF: group-title="Shqiptare Mix" , RU: CHP Info
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/6840
+#EXTINF: group-title="Shqiptare Mix" , RU: CTC TV Cusco HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/6699
+#EXTINF: group-title="Shqiptare Mix" , RU: MTV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8146
+#EXTINF: group-title="Shqiptare Mix" , RU: Rossiya 24
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/6676
+#EXTINF: group-title="Shqiptare Mix" , RU: TV1000 PYCCKOE KINO FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/6721
+#EXTINF: group-title="Shqiptare Mix" , IN |  MTV INDIA
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/5955
+#EXTINF: group-title="Shqiptare Mix" , IN |  Media Punjabi
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/5976
+#EXTINF: group-title="Shqiptare Mix" , IN | Asianet Movies
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/5857
+#EXTINF: group-title="Shqiptare Mix" , IN | Asianet Plus
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/5859
+#EXTINF: group-title="Shqiptare Mix" , IN | Chardikla TIME TV Punjabi
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9738
+#EXTINF: group-title="Shqiptare Mix" , IN | UTV Movies HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/5901
+#EXTINF: group-title="Shqiptare Mix" , IN | ZEE Action
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/5899
+#EXTINF: group-title="Shqiptare Mix" , IN | ZEE BOLLYWOOD HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/5900
+#EXTINF: group-title="Shqiptare Mix" , IN | Zee TV UK
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/5898
+#EXTINF: group-title="Shqiptare Mix" , IR: GEM MAXX HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/23198
+#EXTINF: group-title="Shqiptare Mix" , PK: ARY Zindagi
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7905
+#EXTINF: group-title="Shqiptare Mix" , PK: ATV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7913
+#EXTINF: group-title="Shqiptare Mix" , PK: GEO NEWS
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7919
+#EXTINF: group-title="Shqiptare Mix" , PK: GEO TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7884
+#EXTINF: group-title="Shqiptare Mix" , PK: Pak News HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/10582
+#EXTINF: group-title="Shqiptare Mix" , PK: Roze News
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7858
+#EXTINF: group-title="Shqiptare Mix" , PK: Samaa News
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7861
+#EXTINF: group-title="Shqiptare Mix" , AAJ News PK
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29595
+#EXTINF: group-title="Shqiptare Mix" , ALG: Dzair 3 TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/23341
+#EXTINF: group-title="Shqiptare Mix" , ALG: El Djazairia One HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/23332
+#EXTINF: group-title="Shqiptare Mix" , ALG: Numidia TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/23333
+#EXTINF: group-title="Shqiptare Mix" , AR: 2M
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3273
+#EXTINF: group-title="Shqiptare Mix" , AR: Al Nas
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/27010
+#EXTINF: group-title="Shqiptare Mix" , AF: GH ONE
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29489
+#EXTINF: group-title="Shqiptare Mix" , AF: 2S TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29420
+#EXTINF: group-title="Shqiptare Mix" , AF: RDV SENEGAL
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29427
+#EXTINF: group-title="Shqiptare Mix" , COL: Cali Tv qHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26142
+#EXTINF: group-title="Shqiptare Mix" , IL: Yes Disney Junior qHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13959
+#EXTINF: group-title="Shqiptare Mix" , IL: Yes Doku
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13951
+#EXTINF: group-title="Shqiptare Mix" , AFG: ATN NEWS
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29926
+#EXTINF: group-title="Shqiptare Mix" , AFG: TUTI TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29939
+#EXTINF: group-title="Shqiptare Mix" , AZ: CBC Azerbaycan
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13289
+#EXTINF: group-title="Shqiptare Mix" , AL: Tring Sport 1 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1169
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Sport 2
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/6451
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Sport 6 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7305
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Sport 7 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7306
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Sport 8 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7307
+#EXTINF: group-title="Shqiptare Mix" , VIP:CH: Teleclub Sport 2 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22972
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Sport Bundesliga 3 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7428
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Sport Bundesliga 6 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7432
+#EXTINF: group-title="Shqiptare Mix" , DE: Sky Sport Bundesliga 7 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7434
+#EXTINF: group-title="Shqiptare Mix" , DE: UPC My Sports HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/12489
+#EXTINF: group-title="Shqiptare Mix" , DE: SPORT 1+ HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1848
+#EXTINF: group-title="Shqiptare Mix" , DE: SPORT1 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8960
+#EXTINF: group-title="Shqiptare Mix" , AU: beIN SPORT 1 AUSTRALIA
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3991
+#EXTINF: group-title="Shqiptare Mix" , AR: beIN SPORTS 5 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/886
+#EXTINF: group-title="Shqiptare Mix" , AR: beIN SPORTS 9 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1729
+#EXTINF: group-title="Shqiptare Mix" , AR: beIN SPORTS 12 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/9536
+#EXTINF: group-title="Shqiptare Mix" , EX-YU : SPORT KLUB 2 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/1719
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: Arena Sport 1 HR FULL HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/863
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: Arena Sport 4 HR FULL HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/869
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: Sport Klub Channel
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11146
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: SPORT KLUB 6
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2935
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: Sport Klub 8
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/21685
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: Sport Klub 9
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/21686
+#EXTINF: group-title="Shqiptare Mix" , EX-YU: Sport Klub GOLF
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11028
+#EXTINF: group-title="Shqiptare Mix" , MK: Sportska TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/10713
+#EXTINF: group-title="Shqiptare Mix" , Si: SPORT TV 1 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2945
+#EXTINF: group-title="Shqiptare Mix" , Si: SPORT TV 2 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2946
+#EXTINF: group-title="Shqiptare Mix" , Si: SPORT TV 3 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2947
+#EXTINF: group-title="Shqiptare Mix" , SI: SPORTKLUB 1 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2942
+#EXTINF: group-title="Shqiptare Mix" , SI: SPORTKLUB 4 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/21927
+#EXTINF: group-title="Shqiptare Mix" , UK: SKY SPORTS F1 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/10733
+#EXTINF: group-title="Shqiptare Mix" , UK: SKY SPORTS GOLF
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/10723
+#EXTINF: group-title="Shqiptare Mix" , UK: SKY SPORTS MAIN EVENT
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/10720
+#EXTINF: group-title="Shqiptare Mix" , UK: SKY SPORTS PREMIER LEAGUE
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/10719
+#EXTINF: group-title="Shqiptare Mix" , UK: SKY SPORTS PREMIER LEAGUE (IRELAND)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/10779
+#EXTINF: group-title="Shqiptare Mix" , UK: BT Sport Extra 1
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7383
+#EXTINF: group-title="Shqiptare Mix" , UK: BT Sport Extra 2
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7384
+#EXTINF: group-title="Shqiptare Mix" , UK: Eir Sport 2
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/15868
+#EXTINF: group-title="Shqiptare Mix" , SP: SUPERSPORT 5 SA
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29505
+#EXTINF: group-title="Shqiptare Mix" , SP: SUPERSPORT 9 SA
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29507
+#EXTINF: group-title="Shqiptare Mix" , SP: SUPERSPORT 10
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29509
+#EXTINF: group-title="Shqiptare Mix" , US: EPL SuperSport 10
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/27940
+#EXTINF: group-title="Shqiptare Mix" , SP: SUPERSPORT 11 SA
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29510
+#EXTINF: group-title="Shqiptare Mix" , SP: SUPERSPORT 12 SA
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29511
+#EXTINF: group-title="Shqiptare Mix" , SP: SUPERSPORT BLITZ
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/29514
+#EXTINF: group-title="Shqiptare Mix" , TR: S Sport
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/21881
+#EXTINF: group-title="Shqiptare Mix" , TR: beIN SPORTS 1 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7415
+#EXTINF: group-title="Shqiptare Mix" , TR: beIN SPORTS 3 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7418
+#EXTINF: group-title="Shqiptare Mix" , TR: beIN SPORTS 4 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/7419
+#EXTINF: group-title="Shqiptare Mix" , TR: beIN SPORTS Haber HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11511
+#EXTINF: group-title="Shqiptare Mix" , TR: TIVIBU SPOR 3 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4236
+#EXTINF: group-title="Shqiptare Mix" , TR: SPOR SMART HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2678
+#EXTINF: group-title="Shqiptare Mix" , ES: La Liga HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/26379
+#EXTINF: group-title="Shqiptare Mix" , SP: Bein Sport Ñ
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11113
+#EXTINF: group-title="Shqiptare Mix" , ARG: TyC Sports HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/14683
+#EXTINF: group-title="Shqiptare Mix" , |^ARG| TNT SPORT
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/23273
+#EXTINF: group-title="Shqiptare Mix" , SE: C More Sport
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/3334
+#EXTINF: group-title="Shqiptare Mix" , FIN: C More Sport 1
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22087
+#EXTINF: group-title="Shqiptare Mix" , FIN: C More Sport 2
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22088
+#EXTINF: group-title="Shqiptare Mix" , SE: Viasat Sport Premium
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4802
+#EXTINF: group-title="Shqiptare Mix" , BE: Voo Sport 1 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11681
+#EXTINF: group-title="Shqiptare Mix" , BE: Voo Sport  2 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11682
+#EXTINF: group-title="Shqiptare Mix" , BG: MAX SPORT 1 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22130
+#EXTINF: group-title="Shqiptare Mix" , NL: FOX SPORTS 3 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11675
+#EXTINF: group-title="Shqiptare Mix" , NL: FOX SPORTS 4 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11674
+#EXTINF: group-title="Shqiptare Mix" , NL: FOX SPORTS 5 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11673
+#EXTINF: group-title="Shqiptare Mix" , NL: FOX SPORTS 6 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11672
+#EXTINF: group-title="Shqiptare Mix" , NL: Ziggo Sport Racing
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8965
+#EXTINF: group-title="Shqiptare Mix" , NL: Ziggo Sport Racing HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11678
+#EXTINF: group-title="Shqiptare Mix" , NL: Ziggo Sport Select
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8967
+#EXTINF: group-title="Shqiptare Mix" , NL: Ziggo Sport Select HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11291
+#EXTINF: group-title="Shqiptare Mix" , PT: Sporting TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2189
+#EXTINF: group-title="Shqiptare Mix" , PT: SPORT TV + HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/31011
+#EXTINF: group-title="Shqiptare Mix" , PT: Benfica TV
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2188
+#EXTINF: group-title="Shqiptare Mix" , *BR: FOX Sports 1
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/21138
+#EXTINF: group-title="Shqiptare Mix" , BR: SPORT TV 3
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/8242
+#EXTINF: group-title="Shqiptare Mix" , *BR: Sport TV3
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/21140
+#EXTINF: group-title="Shqiptare Mix" , RO: DIGI SPORTS 1
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/5742
+#EXTINF: group-title="Shqiptare Mix" , RO: DIGI SPORTS 2
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/5741
+#EXTINF: group-title="Shqiptare Mix" , SP: Digi Sport 3 Hungary
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4804
+#EXTINF: group-title="Shqiptare Mix" , SP: SKYNET SPORTS 2
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/6439
+#EXTINF: group-title="Shqiptare Mix" , SP: SKYNET SPORTS HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/6444
+#EXTINF: group-title="Shqiptare Mix" , USA: Fight Sport 1
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2450
+#EXTINF: group-title="Shqiptare Mix" , USA: Fox Sport 1 HD (FS1)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2402
+#EXTINF: group-title="Shqiptare Mix" , USA: Fox Sport 2 HD (FS2)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4233
+#EXTINF: group-title="Shqiptare Mix" , USA: Tsn-Sport 3 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/2430
+#EXTINF: group-title="Shqiptare Mix" , USA: beIN SPORTS HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/4712
+#EXTINF: group-title="Shqiptare Mix" , USA: NBC GOLF HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/11349
+#EXTINF: group-title="Shqiptare Mix" , RU: MATCH IGRA
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/6901
+#EXTINF: group-title="Shqiptare Mix" , USA: FOX SOCCER PLUS HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/6358
+#EXTINF: group-title="Shqiptare Mix" , *AR beIN SPORTS 3 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22363
+#EXTINF: group-title="Shqiptare Mix" , *AR beIN SPORTS 4 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22362
+#EXTINF: group-title="Shqiptare Mix" , *AR beIN SPORTS 5 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22361
+#EXTINF: group-title="Shqiptare Mix" , *AR beIN SPORTS 6 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22360
+#EXTINF: group-title="Shqiptare Mix" , *AR beIN SPORTS 8 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22358
+#EXTINF: group-title="Shqiptare Mix" , *AR beIN SPORTS 9 FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/22357
+#EXTINF: group-title="Shqiptare Mix" , DE: DAZN SPORT 1 HD*
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/20031
+#EXTINF: group-title="Shqiptare Mix" , VIP:CH: Sky MySports 4 FHD (CH)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13501
+#EXTINF: group-title="Shqiptare Mix" , VIP:CH: Sky MySports 2 FHD (En Francais)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13513
+#EXTINF: group-title="Shqiptare Mix" , VIP:CH: Sky MySports 4 FHD (En Francais)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13511
+#EXTINF: group-title="Shqiptare Mix" , VIP:CH: Sky MySports 5 FHD (En Francais)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13510
+#EXTINF: group-title="Shqiptare Mix" , VIP:CH: Sky MySports 6 FHD (En Francais)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13509
+#EXTINF: group-title="Shqiptare Mix" , VIP:CH: Sky MySports 7 FHD (En Francais)
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13508
+#EXTINF: group-title="Shqiptare Mix" , VIP:CH: UPC My Sports FHD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/13516
+#EXTINF: group-title="Shqiptare Mix" , VIP|PT: Eleven Sports 1 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/20909
+#EXTINF: group-title="Shqiptare Mix" , VIP|PT: Eleven Sports 2 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/20908
+#EXTINF: group-title="Shqiptare Mix" , VIP|PT: Eleven Sports 3 HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/20907
+#EXTINF: group-title="Shqiptare Mix" , LATINO: TUDN X8 | HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28908
+#EXTINF: group-title="Shqiptare Mix" , LATINO: TUDN X9 | HD
+http://ksportiptv.com:1557/selveri/STwM6dEWmO/28909
+#EXTINF: group-title="Shqiptare Mix" , La Casa de Papel S01 E01
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32277.mp4
+#EXTINF: group-title="Shqiptare Mix" , La Casa de Papel S01 E06
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32283.mp4
+#EXTINF: group-title="Shqiptare Mix" , La Casa de Papel S01 E09
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32286.mp4
+#EXTINF: group-title="Shqiptare Mix" , La Casa de Papel S03 E02
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32303.mp4
+#EXTINF: group-title="Shqiptare Mix" , La Casa de Papel S03 E04
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32307.mp4
+#EXTINF: group-title="Shqiptare Mix" , La Casa de Papel S03 E05
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32309.mp4
+#EXTINF: group-title="Shqiptare Mix" , La Casa de Papel S03 E06
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32311.mp4
+#EXTINF: group-title="Shqiptare Mix" , La Casa de Papel S04 E05
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32308.mp4
+#EXTINF: group-title="Shqiptare Mix" , La Casa de Papel S04 E06
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32310.mp4
+#EXTINF: group-title="Shqiptare Mix" , Prison Break S01 E07
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32411.mp4
+#EXTINF: group-title="Shqiptare Mix" , Prison Break S01 E08
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32412.mp4
+#EXTINF: group-title="Shqiptare Mix" , Prison Break S01 E11
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32415.mp4
+#EXTINF: group-title="Shqiptare Mix" , Prison Break S01 E16
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32422.mp4
+#EXTINF: group-title="Shqiptare Mix" , Prison Break S01 E17
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32423.mp4
+#EXTINF: group-title="Shqiptare Mix" , Prison Break S01 E22
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32428.mp4
+#EXTINF: group-title="Shqiptare Mix" , Prison Break S02 E01
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32429.mp4
+#EXTINF: group-title="Shqiptare Mix" , Prison Break S02 E02
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32430.mp4
+#EXTINF: group-title="Shqiptare Mix" , Prison Break S02 E03
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32431.mp4
+#EXTINF: group-title="Shqiptare Mix" , Prison Break S02 E10
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32438.mp4
+#EXTINF: group-title="Shqiptare Mix" , Prison Break S02 E18
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32447.mp4
+#EXTINF: group-title="Shqiptare Mix" , Prison Break S03 E03
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32454.mp4
+#EXTINF: group-title="Shqiptare Mix" , Prison Break S03 E14
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32465.mp4
+#EXTINF: group-title="Shqiptare Mix" , Prison Break S04 E01
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32467.mp4
+#EXTINF: group-title="Shqiptare Mix" , Prison Break S04 E02
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32468.mp4
+#EXTINF: group-title="Shqiptare Mix" , Prison Break S04 E03
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32469.mp4
+#EXTINF: group-title="Shqiptare Mix" , Prison Break S04 E06
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32472.mp4
+#EXTINF: group-title="Shqiptare Mix" , Prison Break S04 E10
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32476.mp4
+#EXTINF: group-title="Shqiptare Mix" , Prison Break S04 E14
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32480.mp4
+#EXTINF: group-title="Shqiptare Mix" , Prison Break S04 E20
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32486.mp4
+#EXTINF: group-title="Shqiptare Mix" , Prison Break S04 E22
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32488.mp4
+#EXTINF: group-title="Shqiptare Mix" , Peaky Blinders S01 E06
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32542.mp4
+#EXTINF: group-title="Shqiptare Mix" , Peaky Blinders S02 E01
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32544.mp4
+#EXTINF: group-title="Shqiptare Mix" , Peaky Blinders S02 E02
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32545.mp4
+#EXTINF: group-title="Shqiptare Mix" , Peaky Blinders S02 E05
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32548.mp4
+#EXTINF: group-title="Shqiptare Mix" , Peaky Blinders S03 E04
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32553.mp4
+#EXTINF: group-title="Shqiptare Mix" , Peaky Blinders S03 E05
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32554.mp4
+#EXTINF: group-title="Shqiptare Mix" , Peaky Blinders S03 E06
+http://ksportiptv.com:1557/series/selveri/STwM6dEWmO/32555.mp4
+#EXTINF: group-title="Sport" tvg-name="Super Sport 1" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201%20HD.png" , Sport
+http://84.22.33.210/ss1.ott/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Sport" tvg-name="Super Sport 2" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202%20HD.png" , SUPER SPORT 2
+http://84.22.33.210/ss2.ott/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Sport" tvg-name="Super Sport 3" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203%20HD.png" , SUPER SPORT 3
+http://84.22.33.210/ss3.ott/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Sport" tvg-name="Super Sport 4" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204%20HD.png" , SUPER SPORT 4
+http://84.22.33.210/ss4.ott/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Sport" tvg-name="Super Sport 5" tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS5.png" , SUPER SPORT 5
+http://84.22.33.210/ss5.ott/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Sport" tvg-name="Super sport 6" tvg-logo="https://mobile-api.tvim.tv/images/chan_logos/70x25/SS6.png" , SUPER SPORT 6
+http://84.22.33.210/ss6.ott/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Sport" , SUPER SPORT 7
+http://84.22.33.210/ss7.ott/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Sport" , RTSH Sport
+http://79.106.48.2/live/rtsh_sport_mob_p2/playlist.m3u8
+#EXTINF: group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" , EuroSport 1
+http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
+#EXTINF: group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" , Eurosport 1 (2nd option)
+http://213.163.115.221:8020/play/a06u
+#EXTINF: group-title="Sport" tvg-logo="https://www.qmde.net/www.quotenmeter.de/pics/eurosport2/logo/eurosport2_2015_ox__W660xh0.jpg" , Eurosport 2
+http://213.163.115.221:8020/play/a01z
+#EXTINF: group-title="Sport" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%201.png" , K Sport 1 HD
+http://213.163.115.221:8020/play/a0e8
+#EXTINF: group-title="Sport" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%202.png" , K Sport 2
+http://213.163.115.221:8020/play/a0fq
+#EXTINF: group-title="Sport" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%202.png" , K Sport 2 HD
+http://213.163.115.221:8020/play/a004
+#EXTINF: group-title="Sport" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%203.png" , K Sport 3 HD
+http://213.163.115.221:8020/play/a005
+#EXTINF: group-title="Sport" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%204.png" , K Sport 4 HDhttp://213.163.115.221:8020/play/a0e9#EXTINF:-1 group-title="Sport",K Sport 5 HDhttp://213.163.115.221:8020/play/a0ey#EXTINF:-1 group-title="Sport",Tring Sport Newshttp://ott.a...
+http://84.22.33.210/trt1/tracks-v1a1/mono.m3u8
